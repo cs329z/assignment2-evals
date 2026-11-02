@@ -1,4 +1,4 @@
-# CS329Z Fall 2026 Assignment 2: Building an Evaluation Task
+# CS329Z Assignment 2: Building an Evaluation Task
 
 This is the starter repository for Assignment 2.
 
