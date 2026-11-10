@@ -1,3 +1,5 @@
+![Agent Evals: CS329Z Assignment 2](assets/agent-evals.png)
+
 # CS329Z Assignment 2: Building an Evaluation Task
 
 This is the starter repository for Assignment 2.
