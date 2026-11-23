@@ -1,0 +1,62 @@
+{
+  "base_currency": "USD",
+  "transactions": 10,
+  "duplicates_dropped": 0,
+  "accounts": {
+    "acc-a": {
+      "months": {
+        "2024-05": 90100
+      },
+      "total_cents": 90100,
+      "largest": {
+        "id": "C1",
+        "amount_cents": 90000,
+        "description": "Café Müller – dépôt"
+      }
+    },
+    "acc-b": {
+      "months": {
+        "2024-05": 90100
+      },
+      "total_cents": 90100,
+      "largest": {
+        "id": "C2",
+        "amount_cents": 90000,
+        "description": "Client’s “rush” fee €"
+      }
+    },
+    "acc-c": {
+      "months": {
+        "2024-05": 90100
+      },
+      "total_cents": 90100,
+      "largest": {
+        "id": "C3",
+        "amount_cents": 90000,
+        "description": "Señor Núñez — invoice…"
+      }
+    },
+    "acc-d": {
+      "months": {
+        "2024-05": 90100
+      },
+      "total_cents": 90100,
+      "largest": {
+        "id": "C4",
+        "amount_cents": 90000,
+        "description": "naïve façade ½ price, tax"
+      }
+    },
+    "acc-e": {
+      "months": {
+        "2024-05": -89900
+      },
+      "total_cents": -89900,
+      "largest": {
+        "id": "C5",
+        "amount_cents": -90000,
+        "description": "Zürich • Œuvre ™"
+      }
+    }
+  }
+}

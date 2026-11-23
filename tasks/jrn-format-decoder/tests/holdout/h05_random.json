@@ -1,0 +1,229 @@
+{
+  "default_currency": "JPY",
+  "accounts": [
+    "facilities",
+    "Café Müller",
+    "rnd",
+    "Ünïcode Ltd",
+    "support",
+    "audit"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2021-07-23T06:12:04Z",
+      "account": "rnd",
+      "amount": "609748101199",
+      "currency": "JPY",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 1,
+      "timestamp": "2021-07-25T21:02:42Z",
+      "account": "support",
+      "amount": "2996899784.73",
+      "currency": "USD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 2,
+      "timestamp": "2021-07-27T08:57:38Z",
+      "account": "rnd",
+      "amount": "-6063858622.72",
+      "currency": "CHF",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 3,
+      "timestamp": "2021-07-31T01:44:42Z",
+      "account": "audit",
+      "amount": "4609165789.05",
+      "currency": "USD",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 4,
+      "timestamp": "2021-07-31T11:45:54Z",
+      "account": "rnd",
+      "amount": "9036308136.35",
+      "currency": "USD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 5,
+      "timestamp": "2021-08-02T00:12:28Z",
+      "account": "Ünïcode Ltd",
+      "amount": "253109813624",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 6,
+      "timestamp": "2021-08-06T06:14:21Z",
+      "account": "rnd",
+      "amount": "-418869654140",
+      "currency": "JPY",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 7,
+      "timestamp": "2021-08-06T16:38:29Z",
+      "account": "Ünïcode Ltd",
+      "amount": "-2297206365.03",
+      "currency": "CHF",
+      "memo": "Café Müller – lunch",
+      "status": "pending"
+    },
+    {
+      "index": 8,
+      "timestamp": "2021-08-10T18:13:22Z",
+      "account": "support",
+      "amount": "61254671.693",
+      "currency": "KWD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 9,
+      "timestamp": "2021-08-10T19:48:45Z",
+      "account": "Ünïcode Ltd",
+      "amount": "2083241980.21",
+      "currency": "CHF",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 10,
+      "timestamp": "2021-08-14T15:14:25Z",
+      "account": "Café Müller",
+      "amount": "752182562.136",
+      "currency": "KWD",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 11,
+      "timestamp": "2021-08-17T22:01:16Z",
+      "account": "Ünïcode Ltd",
+      "amount": "-1995735816.89",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 12,
+      "timestamp": "2021-08-21T02:18:27Z",
+      "account": "Ünïcode Ltd",
+      "amount": "9677039114.59",
+      "currency": "CHF",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 13,
+      "timestamp": "2021-08-25T08:26:03Z",
+      "account": "rnd",
+      "amount": "9488467731.93",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 14,
+      "timestamp": "2021-08-25T23:16:45Z",
+      "account": "rnd",
+      "amount": "27490431606",
+      "currency": "JPY",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 15,
+      "timestamp": "2021-08-27T02:46:36Z",
+      "account": "audit",
+      "amount": "494907968983",
+      "currency": "JPY",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 16,
+      "timestamp": "2021-08-27T19:05:18Z",
+      "account": "support",
+      "amount": "5639936454.39",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 17,
+      "timestamp": "2021-09-01T08:44:05Z",
+      "account": "Ünïcode Ltd",
+      "amount": "474799350548",
+      "currency": "JPY",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 18,
+      "timestamp": "2021-09-05T06:06:28Z",
+      "account": "rnd",
+      "amount": "-7530934825.03",
+      "currency": "CHF",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 19,
+      "timestamp": "2021-09-06T15:50:45Z",
+      "account": "Ünïcode Ltd",
+      "amount": "822468263.346",
+      "currency": "KWD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 20,
+      "timestamp": "2021-09-10T18:15:13Z",
+      "account": "facilities",
+      "amount": "372912238.544",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 21,
+      "timestamp": "2021-09-13T18:52:31Z",
+      "account": "support",
+      "amount": "812381654787",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 22,
+      "timestamp": "2021-09-13T19:34:03Z",
+      "account": "audit",
+      "amount": "9727409713.79",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 23,
+      "timestamp": "2021-09-17T09:33:37Z",
+      "account": "Ünïcode Ltd",
+      "amount": "1078377286.59",
+      "currency": "USD",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    }
+  ]
+}

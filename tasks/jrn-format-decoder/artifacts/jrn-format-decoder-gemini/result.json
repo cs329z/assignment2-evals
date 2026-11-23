@@ -1,0 +1,55 @@
+{
+    "id": "c9773afa-1c65-42ca-81e9-085570f5e674",
+    "started_at": "2026-11-23T11:56:36.042773",
+    "updated_at": "2026-11-23T12:12:52.731244",
+    "finished_at": "2026-11-23T12:12:52.731244",
+    "n_total_trials": 5,
+    "stats": {
+        "n_completed_trials": 5,
+        "n_errored_trials": 3,
+        "n_running_trials": 0,
+        "n_pending_trials": 0,
+        "n_cancelled_trials": 0,
+        "n_retries": 0,
+        "evals": {
+            "mini-swe-agent__google/gemini-3.8-flash__adhoc": {
+                "n_trials": 5,
+                "n_errors": 3,
+                "metrics": [
+                    {
+                        "mean": 0.4
+                    }
+                ],
+                "pass_at_k": {
+                    "2": 0.7,
+                    "4": 1.0,
+                    "5": 1.0
+                },
+                "reward_stats": {
+                    "reward": {
+                        "1.0": [
+                            "jrn-format-decoder__3e3Xbnq",
+                            "jrn-format-decoder__qUqeRA2"
+                        ],
+                        "0.0": [
+                            "jrn-format-decoder__D3gbawp",
+                            "jrn-format-decoder__YoZcjgg",
+                            "jrn-format-decoder__4onpYYx"
+                        ]
+                    }
+                },
+                "exception_stats": {
+                    "AgentTimeoutError": [
+                        "jrn-format-decoder__D3gbawp",
+                        "jrn-format-decoder__YoZcjgg",
+                        "jrn-format-decoder__4onpYYx"
+                    ]
+                }
+            }
+        },
+        "n_input_tokens": 6125643,
+        "n_cache_tokens": 4813307,
+        "n_output_tokens": 116740,
+        "cost_usd": 0.0
+    }
+}

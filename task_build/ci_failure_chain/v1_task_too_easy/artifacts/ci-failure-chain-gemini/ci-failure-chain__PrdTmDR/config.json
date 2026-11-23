@@ -1,0 +1,12 @@
+{
+    "task": {
+        "path": "tasks/ci-failure-chain"
+    },
+    "trial_name": "ci-failure-chain__PrdTmDR",
+    "trials_dir": "tasks/ci-failure-chain/artifacts/ci-failure-chain-gemini",
+    "agent": {
+        "import_path": "pinned_agent:MiniSweAgent",
+        "model_name": "openrouter/google/gemini-3.8-flash"
+    },
+    "job_id": "d94cc882-4ec9-4eaf-9fc3-372f6478ccdb"
+}

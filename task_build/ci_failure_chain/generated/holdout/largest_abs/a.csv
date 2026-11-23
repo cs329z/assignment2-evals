@@ -1,0 +1,9 @@
+id,timestamp,account,currency,amount,description
+G1,2024-05-03T10:00:00+00:00,refunds,USD,50.00,small positive
+G2,2024-05-04T10:00:00+00:00,refunds,USD,(75.25),"biggest by magnitude, a refund"
+G3,2024-05-05T10:00:00+00:00,refunds,USD,60.10,mid positive
+G4,2024-05-06T10:00:00+00:00,fx,USD,500.00,usd
+G5,2024-05-07T10:00:00+00:00,fx,JPY,"100,000",jpy 670.00 usd
+G6,2024-05-08T10:00:00+00:00,fx,EUR,(300.00),eur refund 325.50
+G7,2024-05-09T10:00:00+00:00,plain,USD,10.00,only first
+G8,2024-05-10T10:00:00+00:00,plain,USD,20.00,only second

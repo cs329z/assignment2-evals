@@ -1,0 +1,12 @@
+id,timestamp,account,currency,amount,description
+R1,2024-05-03T10:00:00+00:00,ops,JPY,"12,550",tie jpy
+R2,2024-05-04T10:00:00+00:00,refunds,JPY,"(12,550)",tie jpy refund
+R3,2024-05-05T10:00:00+00:00,ops,GBP,0.50,tie gbp
+R4,2024-05-06T10:00:00+00:00,refunds,GBP,(0.50),tie gbp refund
+R5,2024-05-07T10:00:00+00:00,ops,JPY,1,tiny
+R6,2024-05-08T10:00:00+00:00,refunds,JPY,(1),tiny refund
+R7,2024-05-09T10:00:00+00:00,ops,EUR,0.01,penny eur
+R8,2024-05-10T10:00:00+00:00,ops,EUR,0.04,four cents
+R9,2024-05-11T10:00:00+00:00,ops,EUR,"1,000.00",round number
+R10,2024-05-12T10:00:00+00:00,ops,USD,19.99,plain
+R11,2024-05-13T10:00:00+00:00,refunds,GBP,"(1,333.33)",refund

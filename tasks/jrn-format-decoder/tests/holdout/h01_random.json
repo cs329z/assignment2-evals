@@ -1,0 +1,787 @@
+{
+  "default_currency": "JPY",
+  "accounts": [
+    "Ünïcode Ltd",
+    "marketing",
+    "IT",
+    "fx",
+    "rnd",
+    "hr"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2024-08-10T07:43:14Z",
+      "account": "IT",
+      "amount": "234602550.75",
+      "currency": "GBP",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 1,
+      "timestamp": "2024-08-10T08:01:37Z",
+      "account": "marketing",
+      "amount": "4054193609.70",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 2,
+      "timestamp": "2024-08-10T08:17:22Z",
+      "account": "marketing",
+      "amount": "-3070863181.38",
+      "currency": "EUR",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 3,
+      "timestamp": "2024-08-10T09:21:01Z",
+      "account": "rnd",
+      "amount": "4560003204.97",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 4,
+      "timestamp": "2024-08-10T09:32:05Z",
+      "account": "marketing",
+      "amount": "-951378419.737",
+      "currency": "KWD",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 5,
+      "timestamp": "2024-08-10T09:41:58Z",
+      "account": "IT",
+      "amount": "2767658574.75",
+      "currency": "EUR",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 6,
+      "timestamp": "2024-08-10T10:10:52Z",
+      "account": "fx",
+      "amount": "7605794247.03",
+      "currency": "EUR",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 7,
+      "timestamp": "2024-08-10T10:13:10Z",
+      "account": "marketing",
+      "amount": "3805831913.97",
+      "currency": "GBP",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 8,
+      "timestamp": "2024-08-10T10:19:17Z",
+      "account": "rnd",
+      "amount": "2169606754.03",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 9,
+      "timestamp": "2024-08-10T10:48:40Z",
+      "account": "marketing",
+      "amount": "8526262325.82",
+      "currency": "CHF",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 10,
+      "timestamp": "2024-08-10T12:09:13Z",
+      "account": "hr",
+      "amount": "803870938.38",
+      "currency": "CHF",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 11,
+      "timestamp": "2024-08-10T13:03:14Z",
+      "account": "IT",
+      "amount": "8557023529.43",
+      "currency": "EUR",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 12,
+      "timestamp": "2024-08-10T13:08:13Z",
+      "account": "rnd",
+      "amount": "-797703507.131",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 13,
+      "timestamp": "2024-08-10T14:28:02Z",
+      "account": "marketing",
+      "amount": "3450703697.22",
+      "currency": "CHF",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 14,
+      "timestamp": "2024-08-10T15:19:54Z",
+      "account": "rnd",
+      "amount": "355228357.226",
+      "currency": "KWD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 15,
+      "timestamp": "2024-08-10T16:35:55Z",
+      "account": "Ünïcode Ltd",
+      "amount": "1868164190.09",
+      "currency": "EUR",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 16,
+      "timestamp": "2024-08-10T16:43:22Z",
+      "account": "hr",
+      "amount": "6097374785.13",
+      "currency": "GBP",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 17,
+      "timestamp": "2024-08-10T16:51:11Z",
+      "account": "Ünïcode Ltd",
+      "amount": "951324257.947",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 18,
+      "timestamp": "2024-08-10T18:05:39Z",
+      "account": "fx",
+      "amount": "616005805.688",
+      "currency": "KWD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 19,
+      "timestamp": "2024-08-10T19:07:46Z",
+      "account": "hr",
+      "amount": "9363048078.86",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 20,
+      "timestamp": "2024-08-10T20:28:13Z",
+      "account": "IT",
+      "amount": "-8982523705.98",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 21,
+      "timestamp": "2024-08-10T20:41:50Z",
+      "account": "hr",
+      "amount": "792782800.699",
+      "currency": "KWD",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 22,
+      "timestamp": "2024-08-10T21:48:03Z",
+      "account": "fx",
+      "amount": "5269917770.38",
+      "currency": "GBP",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 23,
+      "timestamp": "2024-08-10T22:36:56Z",
+      "account": "rnd",
+      "amount": "5010573057.39",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 24,
+      "timestamp": "2024-08-10T22:53:44Z",
+      "account": "IT",
+      "amount": "9671657194.75",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "pending"
+    },
+    {
+      "index": 25,
+      "timestamp": "2024-08-10T23:25:46Z",
+      "account": "marketing",
+      "amount": "6434937057.13",
+      "currency": "CHF",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 26,
+      "timestamp": "2024-08-10T23:36:55Z",
+      "account": "marketing",
+      "amount": "-872124733.648",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 27,
+      "timestamp": "2024-08-11T00:47:15Z",
+      "account": "fx",
+      "amount": "1818987550.06",
+      "currency": "GBP",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 28,
+      "timestamp": "2024-08-11T01:10:40Z",
+      "account": "Ünïcode Ltd",
+      "amount": "1126837555.34",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 29,
+      "timestamp": "2024-08-11T01:34:47Z",
+      "account": "rnd",
+      "amount": "167810267.286",
+      "currency": "KWD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 30,
+      "timestamp": "2024-08-11T02:13:30Z",
+      "account": "IT",
+      "amount": "744494387.786",
+      "currency": "KWD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 31,
+      "timestamp": "2024-08-11T02:25:57Z",
+      "account": "Ünïcode Ltd",
+      "amount": "-3188578140.04",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 32,
+      "timestamp": "2024-08-11T03:23:25Z",
+      "account": "IT",
+      "amount": "1617486684.51",
+      "currency": "GBP",
+      "memo": "Taxi to airport",
+      "status": "pending"
+    },
+    {
+      "index": 33,
+      "timestamp": "2024-08-11T03:39:43Z",
+      "account": "fx",
+      "amount": "688614855.411",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 34,
+      "timestamp": "2024-08-11T04:27:22Z",
+      "account": "IT",
+      "amount": "7315700699.10",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 35,
+      "timestamp": "2024-08-11T05:16:14Z",
+      "account": "rnd",
+      "amount": "-552855463.135",
+      "currency": "KWD",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 36,
+      "timestamp": "2024-08-11T05:42:19Z",
+      "account": "hr",
+      "amount": "7954111513.46",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 37,
+      "timestamp": "2024-08-11T06:58:54Z",
+      "account": "Ünïcode Ltd",
+      "amount": "1270207608.46",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 38,
+      "timestamp": "2024-08-11T07:13:21Z",
+      "account": "marketing",
+      "amount": "-629897781.350",
+      "currency": "KWD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 39,
+      "timestamp": "2024-08-11T08:26:02Z",
+      "account": "IT",
+      "amount": "606417908.590",
+      "currency": "KWD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 40,
+      "timestamp": "2024-08-11T08:44:36Z",
+      "account": "Ünïcode Ltd",
+      "amount": "-6688469790.19",
+      "currency": "GBP",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 41,
+      "timestamp": "2024-08-11T08:49:18Z",
+      "account": "fx",
+      "amount": "-532776157.585",
+      "currency": "KWD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 42,
+      "timestamp": "2024-08-11T08:54:45Z",
+      "account": "marketing",
+      "amount": "425827979.527",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 43,
+      "timestamp": "2024-08-11T09:25:08Z",
+      "account": "hr",
+      "amount": "5574784693.70",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 44,
+      "timestamp": "2024-08-11T10:06:38Z",
+      "account": "marketing",
+      "amount": "5826239686.79",
+      "currency": "GBP",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 45,
+      "timestamp": "2024-08-11T10:43:47Z",
+      "account": "rnd",
+      "amount": "2506314919.45",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 46,
+      "timestamp": "2024-08-11T11:02:03Z",
+      "account": "marketing",
+      "amount": "-495181747.913",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 47,
+      "timestamp": "2024-08-11T11:59:13Z",
+      "account": "IT",
+      "amount": "1905844731.38",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 48,
+      "timestamp": "2024-08-11T13:19:16Z",
+      "account": "rnd",
+      "amount": "5224018294.12",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 49,
+      "timestamp": "2024-08-11T13:46:14Z",
+      "account": "Ünïcode Ltd",
+      "amount": "304961832.91",
+      "currency": "CHF",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 50,
+      "timestamp": "2024-08-11T14:24:57Z",
+      "account": "IT",
+      "amount": "455350064.117",
+      "currency": "KWD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 51,
+      "timestamp": "2024-08-11T14:45:11Z",
+      "account": "IT",
+      "amount": "2309745043.17",
+      "currency": "GBP",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 52,
+      "timestamp": "2024-08-11T15:02:30Z",
+      "account": "rnd",
+      "amount": "1362535378.22",
+      "currency": "EUR",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 53,
+      "timestamp": "2024-08-11T15:45:07Z",
+      "account": "rnd",
+      "amount": "1134496583.41",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 54,
+      "timestamp": "2024-08-11T16:34:46Z",
+      "account": "marketing",
+      "amount": "9205432396.84",
+      "currency": "CHF",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 55,
+      "timestamp": "2024-08-11T17:15:23Z",
+      "account": "IT",
+      "amount": "6422528601.44",
+      "currency": "EUR",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 56,
+      "timestamp": "2024-08-11T18:06:21Z",
+      "account": "Ünïcode Ltd",
+      "amount": "9055358909.41",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "pending"
+    },
+    {
+      "index": 57,
+      "timestamp": "2024-08-11T18:47:55Z",
+      "account": "IT",
+      "amount": "16419500.897",
+      "currency": "KWD",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 58,
+      "timestamp": "2024-08-11T18:58:40Z",
+      "account": "hr",
+      "amount": "6296064789.42",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 59,
+      "timestamp": "2024-08-11T19:43:12Z",
+      "account": "marketing",
+      "amount": "5624658464.03",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 60,
+      "timestamp": "2024-08-11T20:02:38Z",
+      "account": "fx",
+      "amount": "8303020656.09",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 61,
+      "timestamp": "2024-08-11T20:04:50Z",
+      "account": "Ünïcode Ltd",
+      "amount": "5804879788.18",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 62,
+      "timestamp": "2024-08-11T20:05:39Z",
+      "account": "IT",
+      "amount": "807487315.288",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 63,
+      "timestamp": "2024-08-11T20:12:24Z",
+      "account": "fx",
+      "amount": "-3319250670.35",
+      "currency": "EUR",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 64,
+      "timestamp": "2024-08-11T21:20:12Z",
+      "account": "Ünïcode Ltd",
+      "amount": "3945712680.32",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 65,
+      "timestamp": "2024-08-11T22:08:57Z",
+      "account": "rnd",
+      "amount": "641951345.739",
+      "currency": "KWD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 66,
+      "timestamp": "2024-08-11T22:55:51Z",
+      "account": "hr",
+      "amount": "496378942.462",
+      "currency": "KWD",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 67,
+      "timestamp": "2024-08-11T23:09:39Z",
+      "account": "IT",
+      "amount": "2045197447.40",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 68,
+      "timestamp": "2024-08-11T23:22:53Z",
+      "account": "marketing",
+      "amount": "868701312.587",
+      "currency": "KWD",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 69,
+      "timestamp": "2024-08-12T00:04:04Z",
+      "account": "fx",
+      "amount": "6102507145.70",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 70,
+      "timestamp": "2024-08-12T00:53:55Z",
+      "account": "rnd",
+      "amount": "2805176676.22",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 71,
+      "timestamp": "2024-08-12T02:07:58Z",
+      "account": "Ünïcode Ltd",
+      "amount": "5281292092.95",
+      "currency": "GBP",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 72,
+      "timestamp": "2024-08-12T02:18:22Z",
+      "account": "hr",
+      "amount": "800544016.561",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 73,
+      "timestamp": "2024-08-12T03:23:40Z",
+      "account": "marketing",
+      "amount": "6861837626.44",
+      "currency": "EUR",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 74,
+      "timestamp": "2024-08-12T04:08:36Z",
+      "account": "marketing",
+      "amount": "569211431.113",
+      "currency": "KWD",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 75,
+      "timestamp": "2024-08-12T05:21:35Z",
+      "account": "IT",
+      "amount": "3914236251.24",
+      "currency": "GBP",
+      "memo": "",
+      "status": "pending"
+    },
+    {
+      "index": 76,
+      "timestamp": "2024-08-12T06:18:04Z",
+      "account": "hr",
+      "amount": "-4120684594.19",
+      "currency": "EUR",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 77,
+      "timestamp": "2024-08-12T07:28:44Z",
+      "account": "fx",
+      "amount": "5839684361.40",
+      "currency": "EUR",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 78,
+      "timestamp": "2024-08-12T07:56:13Z",
+      "account": "hr",
+      "amount": "712791111.761",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 79,
+      "timestamp": "2024-08-12T09:08:29Z",
+      "account": "fx",
+      "amount": "4926920038.28",
+      "currency": "GBP",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 80,
+      "timestamp": "2024-08-12T09:32:36Z",
+      "account": "marketing",
+      "amount": "5996072975.51",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 81,
+      "timestamp": "2024-08-12T10:49:21Z",
+      "account": "hr",
+      "amount": "4567559569.52",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 82,
+      "timestamp": "2024-08-12T11:45:55Z",
+      "account": "IT",
+      "amount": "8892043995.45",
+      "currency": "GBP",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 83,
+      "timestamp": "2024-08-12T12:05:34Z",
+      "account": "hr",
+      "amount": "2418266582.34",
+      "currency": "CHF",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 84,
+      "timestamp": "2024-08-12T13:01:56Z",
+      "account": "hr",
+      "amount": "-877125907.815",
+      "currency": "KWD",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 85,
+      "timestamp": "2024-08-12T13:38:04Z",
+      "account": "hr",
+      "amount": "9050747707.51",
+      "currency": "CHF",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    }
+  ]
+}

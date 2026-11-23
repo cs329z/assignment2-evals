@@ -1,0 +1,10 @@
+{
+    "job_name": "jrn-format-decoder-oracle",
+    "jobs_dir": "tasks/jrn-format-decoder/artifacts",
+    "n_concurrent_trials": 1,
+    "tasks": [
+        {
+            "path": "tasks/jrn-format-decoder"
+        }
+    ]
+}

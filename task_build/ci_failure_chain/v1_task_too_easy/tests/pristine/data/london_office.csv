@@ -1,0 +1,53 @@
+id,timestamp,account,currency,amount,description
+T0001,2024-06-11T16:00:51+01:00,marketing,USD,424.13,Conference – registration
+T0002,2024-01-02T15:28:28-05:00,travel,EUR,"4,606.93",Rennes – dépôt
+T0003,2024-03-14T15:01:12+00:00,marketing,EUR,"4,083.19",Café Müller – lunch
+T0004,2024-04-19T16:30:50+05:30,ops,JPY,"66,916",Client’s deposit
+T0005,2024-03-16T23:26:13-08:00,marketing,EUR,"(3,912.51)",“Rush” courier fee
+T0006,2024-06-08T02:48:36+09:00,travel,GBP,"5,592.12",Hotel (2 nights) – Zürich
+T0007,2024-06-11T04:02:52-08:00,ops,EUR,"(2,182.10)","Software license, annual"
+T0008,2024-02-25T11:22:39+05:30,marketing,EUR,"5,894.43",Catering — offsite
+T0009,2024-06-27T01:01:03+00:00,ops,JPY,"76,989",Señor Núñez invoice
+T0006,2024-06-08T02:48:36+09:00,travel,GBP,42.62,Hotel (2 nights) – Zürich
+T0010,2024-03-11T06:11:50+01:00,travel,EUR,624.54,Señor Núñez invoice
+T0011,2024-02-05T00:34:42+01:00,travel,JPY,"87,596",Señor Núñez invoice
+  T0012 ,2024-05-12T15:30:40-05:00,  travel ,JPY,"9,190","  Software license, annual "
+T0013,2024-06-25T02:43:54+01:00,ops,JPY,"30,503",Monthly retainer
+T0003,2024-03-14T15:01:12+00:00,marketing,EUR,26.33,Café Müller – lunch
+T0014,2024-01-10T05:16:02+01:00,marketing,JPY,"47,678",Rennes – dépôt
+T0015,2024-05-23T02:30:31+00:00,travel,JPY,"75,768",“Rush” courier fee
+T0016,2024-01-27T02:14:08+00:00,travel,USD,"5,910.73",“Rush” courier fee
+T0017,2024-05-26T20:54:39+01:00,travel,JPY,"43,666",Catering — offsite
+  T0018 ,2024-04-13T23:01:38+01:00,  marketing ,GBP,"4,323.61",  Taxi to airport 
+  T0019 ,2024-05-02T12:33:42+01:00,  marketing ,JPY,"48,182",  Conference – registration 
+T0020,2024-06-24T13:35:25-08:00,travel,EUR,"3,785.54",“Rush” courier fee
+T0021,2024-04-19T13:51:21+00:00,travel,EUR,"7,728.20",Hotel (2 nights) – Zürich
+T0022,2024-04-23T00:11:32-05:00,travel,JPY,"50,357",Señor Núñez invoice
+T0023,2024-02-07T05:38:15+00:00,ops,EUR,"8,796.75",Señor Núñez invoice
+T0024,2024-01-09T03:22:24+05:30,travel,GBP,"3,014.75",Client’s deposit
+T0025,2024-01-25T15:08:01-05:00,travel,EUR,"8,009.45",“Rush” courier fee
+T0026,2024-06-06T13:44:22-05:00,marketing,EUR,"5,213.84",Client’s deposit
+T0027,2024-01-06T23:03:19+01:00,marketing,USD,"5,505.38",Señor Núñez invoice
+T0028,2024-01-26T08:50:24+01:00,travel,EUR,672.96,"Software license, annual"
+T0029,2024-03-22T23:23:23+00:00,travel,EUR,3716.25,Monthly retainer
+T0030,2024-02-08T20:36:41+01:00,travel,USD,"7,959.09",Hotel (2 nights) – Zürich
+T0031,2024-05-14T02:14:03-05:00,marketing,JPY,"54,983",Rennes – dépôt
+T0032,2024-02-05T15:11:33+05:30,ops,USD,"3,622.78","Software license, annual"
+T0033,2024-02-11T04:12:29+00:00,marketing,EUR,324.51,Taxi to airport
+T0034,2024-05-25T21:32:56+09:00,travel,USD,6520.82,Conference – registration
+T0035,2024-02-20T03:57:31+05:30,travel,USD,"3,870.02",Rennes – dépôt
+  T0036 ,2024-03-20T09:26:59+00:00,  travel ,USD,-3490.45,  Client’s deposit 
+T0037,2024-05-12T09:44:50+00:00,marketing,EUR,34.55,Café Müller – lunch
+T0038,2024-05-18T04:43:16-08:00,ops,GBP,"4,477.00",Conference – registration
+  T0039 ,2024-06-23T08:12:58+05:30,  marketing ,GBP,5472.73,  Conference – registration 
+T0040,2024-02-16T18:17:26+01:00,ops,EUR,"3,908.16","Software license, annual"
+T0034,2024-05-25T21:32:56+09:00,travel,USD,20.55,Conference – registration
+T0041,2024-04-04T20:12:38+01:00,marketing,JPY,"10,377",Conference – registration
+T0042,2024-01-14T20:03:23+09:00,ops,JPY,"62,504",“Rush” courier fee
+  T0043 ,2024-06-12T16:41:44-05:00,  marketing ,USD,5962.60,  Catering — offsite 
+T0044,2024-04-09T09:40:07+09:00,ops,EUR,4327.89,Client’s deposit
+T0045,2024-02-12T13:25:25+01:00,ops,GBP,663.45,Señor Núñez invoice
+T0101,2024-04-01T00:30:00+09:00,ops,JPY,"12,550",Taxi to airport
+T0102,2024-02-01T02:15:00+05:30,marketing,GBP,0.50,“Rush” courier fee
+T0103,2024-05-01T00:10:00+01:00,travel,EUR,(412.30),Rennes – dépôt
+T0104,2024-03-10T12:00:00+00:00,ops,JPY,"(12,550)",Catering — offsite

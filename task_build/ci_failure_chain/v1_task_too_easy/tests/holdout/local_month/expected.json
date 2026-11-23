@@ -1,0 +1,25 @@
+{
+  "base_currency": "USD",
+  "transactions": 9,
+  "duplicates_dropped": 0,
+  "accounts": {
+    "ops": {
+      "months": {
+        "2024-01": 10000,
+        "2024-02": 80000,
+        "2024-03": 20000,
+        "2024-04": 40000,
+        "2024-05": 60000,
+        "2024-06": 80000,
+        "2024-07": 90000,
+        "2024-12": 70000
+      },
+      "total_cents": 450000,
+      "largest": {
+        "id": "L9",
+        "amount_cents": 90000,
+        "description": "late july"
+      }
+    }
+  }
+}

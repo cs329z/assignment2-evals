@@ -1,0 +1,8 @@
+{
+    "task": {
+        "path": "tasks/jrn-format-decoder"
+    },
+    "trial_name": "jrn-format-decoder__g55epCE",
+    "trials_dir": "tasks/jrn-format-decoder/artifacts/jrn-format-decoder-oracle",
+    "job_id": "a349f788-78f7-4c98-b0d0-fd2150251d0d"
+}

@@ -1,0 +1,10 @@
+{
+    "job_name": "ci-failure-chain-oracle",
+    "jobs_dir": "tasks/ci-failure-chain/artifacts",
+    "n_concurrent_trials": 1,
+    "tasks": [
+        {
+            "path": "tasks/ci-failure-chain"
+        }
+    ]
+}

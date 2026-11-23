@@ -1,0 +1,14 @@
+{
+  "base_currency": "USD",
+  "inputs": [
+    "a.csv",
+    "b.csv",
+    "c.csv"
+  ],
+  "fx_rates": {
+    "USD": "1",
+    "EUR": "1.0850",
+    "GBP": "1.2700",
+    "JPY": "0.0067"
+  }
+}

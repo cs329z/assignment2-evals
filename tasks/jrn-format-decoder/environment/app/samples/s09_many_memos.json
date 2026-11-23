@@ -1,0 +1,1813 @@
+{
+  "default_currency": "USD",
+  "accounts": [
+    "ops",
+    "payroll",
+    "travel",
+    "marketing",
+    "Café Müller",
+    "rnd"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2025-01-27T21:52:16Z",
+      "account": "payroll",
+      "amount": "2952.46",
+      "currency": "EUR",
+      "memo": "memo-0000",
+      "status": "posted"
+    },
+    {
+      "index": 1,
+      "timestamp": "2025-01-27T21:57:40Z",
+      "account": "payroll",
+      "amount": "41.07",
+      "currency": "EUR",
+      "memo": "memo-0001",
+      "status": "posted"
+    },
+    {
+      "index": 2,
+      "timestamp": "2025-01-27T22:02:51Z",
+      "account": "payroll",
+      "amount": "1432.04",
+      "currency": "EUR",
+      "memo": "memo-0002",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "timestamp": "2025-01-27T22:07:03Z",
+      "account": "payroll",
+      "amount": "4074.52",
+      "currency": "USD",
+      "memo": "memo-0003",
+      "status": "posted"
+    },
+    {
+      "index": 4,
+      "timestamp": "2025-01-27T22:07:42Z",
+      "account": "Café Müller",
+      "amount": "825.59",
+      "currency": "EUR",
+      "memo": "memo-0004",
+      "status": "posted"
+    },
+    {
+      "index": 5,
+      "timestamp": "2025-01-27T22:09:50Z",
+      "account": "travel",
+      "amount": "-4899.46",
+      "currency": "EUR",
+      "memo": "memo-0005",
+      "status": "posted"
+    },
+    {
+      "index": 6,
+      "timestamp": "2025-01-27T22:15:15Z",
+      "account": "ops",
+      "amount": "945.03",
+      "currency": "EUR",
+      "memo": "memo-0006",
+      "status": "posted"
+    },
+    {
+      "index": 7,
+      "timestamp": "2025-01-27T22:21:37Z",
+      "account": "Café Müller",
+      "amount": "4162.47",
+      "currency": "EUR",
+      "memo": "memo-0007",
+      "status": "posted"
+    },
+    {
+      "index": 8,
+      "timestamp": "2025-01-27T22:25:00Z",
+      "account": "payroll",
+      "amount": "2945.68",
+      "currency": "USD",
+      "memo": "memo-0008",
+      "status": "posted"
+    },
+    {
+      "index": 9,
+      "timestamp": "2025-01-27T22:34:09Z",
+      "account": "rnd",
+      "amount": "4223.63",
+      "currency": "USD",
+      "memo": "memo-0009",
+      "status": "posted"
+    },
+    {
+      "index": 10,
+      "timestamp": "2025-01-27T22:36:56Z",
+      "account": "travel",
+      "amount": "2852.82",
+      "currency": "EUR",
+      "memo": "memo-0010",
+      "status": "pending"
+    },
+    {
+      "index": 11,
+      "timestamp": "2025-01-27T22:39:24Z",
+      "account": "payroll",
+      "amount": "4827.28",
+      "currency": "USD",
+      "memo": "memo-0011",
+      "status": "posted"
+    },
+    {
+      "index": 12,
+      "timestamp": "2025-01-27T22:39:24Z",
+      "account": "rnd",
+      "amount": "3428.48",
+      "currency": "USD",
+      "memo": "memo-0012",
+      "status": "posted"
+    },
+    {
+      "index": 13,
+      "timestamp": "2025-01-27T22:45:42Z",
+      "account": "rnd",
+      "amount": "4773.68",
+      "currency": "EUR",
+      "memo": "memo-0013",
+      "status": "posted"
+    },
+    {
+      "index": 14,
+      "timestamp": "2025-01-27T22:46:31Z",
+      "account": "payroll",
+      "amount": "-538.12",
+      "currency": "USD",
+      "memo": "memo-0014",
+      "status": "posted"
+    },
+    {
+      "index": 15,
+      "timestamp": "2025-01-27T22:49:19Z",
+      "account": "Café Müller",
+      "amount": "3249.19",
+      "currency": "EUR",
+      "memo": "memo-0015",
+      "status": "pending"
+    },
+    {
+      "index": 16,
+      "timestamp": "2025-01-27T22:51:09Z",
+      "account": "marketing",
+      "amount": "-1030.42",
+      "currency": "EUR",
+      "memo": "memo-0016",
+      "status": "posted"
+    },
+    {
+      "index": 17,
+      "timestamp": "2025-01-27T22:52:27Z",
+      "account": "Café Müller",
+      "amount": "-4937.53",
+      "currency": "EUR",
+      "memo": "memo-0017",
+      "status": "posted"
+    },
+    {
+      "index": 18,
+      "timestamp": "2025-01-27T22:58:59Z",
+      "account": "marketing",
+      "amount": "4941.35",
+      "currency": "USD",
+      "memo": "memo-0018",
+      "status": "posted"
+    },
+    {
+      "index": 19,
+      "timestamp": "2025-01-27T23:06:58Z",
+      "account": "travel",
+      "amount": "-2299.38",
+      "currency": "USD",
+      "memo": "memo-0019",
+      "status": "pending"
+    },
+    {
+      "index": 20,
+      "timestamp": "2025-01-27T23:12:15Z",
+      "account": "Café Müller",
+      "amount": "-1967.98",
+      "currency": "EUR",
+      "memo": "memo-0020",
+      "status": "posted"
+    },
+    {
+      "index": 21,
+      "timestamp": "2025-01-27T23:18:05Z",
+      "account": "travel",
+      "amount": "-3950.62",
+      "currency": "EUR",
+      "memo": "memo-0021",
+      "status": "posted"
+    },
+    {
+      "index": 22,
+      "timestamp": "2025-01-27T23:23:36Z",
+      "account": "rnd",
+      "amount": "4533.64",
+      "currency": "USD",
+      "memo": "memo-0022",
+      "status": "posted"
+    },
+    {
+      "index": 23,
+      "timestamp": "2025-01-27T23:29:50Z",
+      "account": "travel",
+      "amount": "3117.08",
+      "currency": "USD",
+      "memo": "memo-0023",
+      "status": "posted"
+    },
+    {
+      "index": 24,
+      "timestamp": "2025-01-27T23:32:03Z",
+      "account": "payroll",
+      "amount": "3115.90",
+      "currency": "USD",
+      "memo": "memo-0024",
+      "status": "posted"
+    },
+    {
+      "index": 25,
+      "timestamp": "2025-01-27T23:38:55Z",
+      "account": "payroll",
+      "amount": "2766.82",
+      "currency": "EUR",
+      "memo": "memo-0025",
+      "status": "posted"
+    },
+    {
+      "index": 26,
+      "timestamp": "2025-01-27T23:48:54Z",
+      "account": "travel",
+      "amount": "-3101.79",
+      "currency": "EUR",
+      "memo": "memo-0026",
+      "status": "posted"
+    },
+    {
+      "index": 27,
+      "timestamp": "2025-01-27T23:55:57Z",
+      "account": "rnd",
+      "amount": "-1346.01",
+      "currency": "USD",
+      "memo": "memo-0027",
+      "status": "pending"
+    },
+    {
+      "index": 28,
+      "timestamp": "2025-01-27T23:57:18Z",
+      "account": "payroll",
+      "amount": "-1768.91",
+      "currency": "EUR",
+      "memo": "memo-0028",
+      "status": "posted"
+    },
+    {
+      "index": 29,
+      "timestamp": "2025-01-28T00:05:57Z",
+      "account": "travel",
+      "amount": "3055.44",
+      "currency": "USD",
+      "memo": "memo-0029",
+      "status": "pending"
+    },
+    {
+      "index": 30,
+      "timestamp": "2025-01-28T00:07:24Z",
+      "account": "payroll",
+      "amount": "2636.91",
+      "currency": "EUR",
+      "memo": "memo-0030",
+      "status": "posted"
+    },
+    {
+      "index": 31,
+      "timestamp": "2025-01-28T00:08:38Z",
+      "account": "Café Müller",
+      "amount": "2063.88",
+      "currency": "EUR",
+      "memo": "memo-0031",
+      "status": "pending"
+    },
+    {
+      "index": 32,
+      "timestamp": "2025-01-28T00:08:51Z",
+      "account": "rnd",
+      "amount": "3566.55",
+      "currency": "EUR",
+      "memo": "memo-0032",
+      "status": "posted"
+    },
+    {
+      "index": 33,
+      "timestamp": "2025-01-28T00:11:08Z",
+      "account": "marketing",
+      "amount": "2544.62",
+      "currency": "USD",
+      "memo": "memo-0033",
+      "status": "posted"
+    },
+    {
+      "index": 34,
+      "timestamp": "2025-01-28T00:19:22Z",
+      "account": "travel",
+      "amount": "-679.84",
+      "currency": "EUR",
+      "memo": "memo-0034",
+      "status": "posted"
+    },
+    {
+      "index": 35,
+      "timestamp": "2025-01-28T00:19:48Z",
+      "account": "rnd",
+      "amount": "-4613.74",
+      "currency": "USD",
+      "memo": "memo-0035",
+      "status": "posted"
+    },
+    {
+      "index": 36,
+      "timestamp": "2025-01-28T00:23:01Z",
+      "account": "payroll",
+      "amount": "2824.17",
+      "currency": "EUR",
+      "memo": "memo-0036",
+      "status": "posted"
+    },
+    {
+      "index": 37,
+      "timestamp": "2025-01-28T00:23:41Z",
+      "account": "payroll",
+      "amount": "3709.13",
+      "currency": "EUR",
+      "memo": "memo-0037",
+      "status": "posted"
+    },
+    {
+      "index": 38,
+      "timestamp": "2025-01-28T00:32:17Z",
+      "account": "marketing",
+      "amount": "3356.05",
+      "currency": "EUR",
+      "memo": "memo-0038",
+      "status": "pending"
+    },
+    {
+      "index": 39,
+      "timestamp": "2025-01-28T00:41:01Z",
+      "account": "Café Müller",
+      "amount": "294.12",
+      "currency": "EUR",
+      "memo": "memo-0039",
+      "status": "posted"
+    },
+    {
+      "index": 40,
+      "timestamp": "2025-01-28T00:43:28Z",
+      "account": "Café Müller",
+      "amount": "3271.47",
+      "currency": "USD",
+      "memo": "memo-0040",
+      "status": "posted"
+    },
+    {
+      "index": 41,
+      "timestamp": "2025-01-28T00:50:01Z",
+      "account": "marketing",
+      "amount": "2973.67",
+      "currency": "EUR",
+      "memo": "memo-0041",
+      "status": "posted"
+    },
+    {
+      "index": 42,
+      "timestamp": "2025-01-28T00:56:56Z",
+      "account": "Café Müller",
+      "amount": "2750.97",
+      "currency": "EUR",
+      "memo": "memo-0042",
+      "status": "posted"
+    },
+    {
+      "index": 43,
+      "timestamp": "2025-01-28T01:01:24Z",
+      "account": "ops",
+      "amount": "2838.47",
+      "currency": "USD",
+      "memo": "memo-0043",
+      "status": "posted"
+    },
+    {
+      "index": 44,
+      "timestamp": "2025-01-28T01:07:30Z",
+      "account": "ops",
+      "amount": "2070.00",
+      "currency": "EUR",
+      "memo": "memo-0044",
+      "status": "posted"
+    },
+    {
+      "index": 45,
+      "timestamp": "2025-01-28T01:16:43Z",
+      "account": "marketing",
+      "amount": "333.34",
+      "currency": "USD",
+      "memo": "memo-0045",
+      "status": "posted"
+    },
+    {
+      "index": 46,
+      "timestamp": "2025-01-28T01:18:10Z",
+      "account": "ops",
+      "amount": "-339.41",
+      "currency": "USD",
+      "memo": "memo-0046",
+      "status": "pending"
+    },
+    {
+      "index": 47,
+      "timestamp": "2025-01-28T01:18:19Z",
+      "account": "ops",
+      "amount": "2265.52",
+      "currency": "USD",
+      "memo": "memo-0047",
+      "status": "posted"
+    },
+    {
+      "index": 48,
+      "timestamp": "2025-01-28T01:23:59Z",
+      "account": "travel",
+      "amount": "1245.74",
+      "currency": "EUR",
+      "memo": "memo-0048",
+      "status": "pending"
+    },
+    {
+      "index": 49,
+      "timestamp": "2025-01-28T01:33:25Z",
+      "account": "ops",
+      "amount": "4212.02",
+      "currency": "USD",
+      "memo": "memo-0049",
+      "status": "posted"
+    },
+    {
+      "index": 50,
+      "timestamp": "2025-01-28T01:38:48Z",
+      "account": "rnd",
+      "amount": "-2457.16",
+      "currency": "USD",
+      "memo": "memo-0050",
+      "status": "posted"
+    },
+    {
+      "index": 51,
+      "timestamp": "2025-01-28T01:45:40Z",
+      "account": "travel",
+      "amount": "3728.09",
+      "currency": "USD",
+      "memo": "memo-0051",
+      "status": "posted"
+    },
+    {
+      "index": 52,
+      "timestamp": "2025-01-28T01:54:25Z",
+      "account": "ops",
+      "amount": "4127.88",
+      "currency": "EUR",
+      "memo": "memo-0052",
+      "status": "posted"
+    },
+    {
+      "index": 53,
+      "timestamp": "2025-01-28T02:01:08Z",
+      "account": "travel",
+      "amount": "4517.54",
+      "currency": "USD",
+      "memo": "memo-0053",
+      "status": "posted"
+    },
+    {
+      "index": 54,
+      "timestamp": "2025-01-28T02:03:35Z",
+      "account": "rnd",
+      "amount": "4142.05",
+      "currency": "USD",
+      "memo": "memo-0054",
+      "status": "posted"
+    },
+    {
+      "index": 55,
+      "timestamp": "2025-01-28T02:10:16Z",
+      "account": "marketing",
+      "amount": "-4026.32",
+      "currency": "EUR",
+      "memo": "memo-0055",
+      "status": "posted"
+    },
+    {
+      "index": 56,
+      "timestamp": "2025-01-28T02:18:32Z",
+      "account": "travel",
+      "amount": "4449.37",
+      "currency": "EUR",
+      "memo": "memo-0056",
+      "status": "posted"
+    },
+    {
+      "index": 57,
+      "timestamp": "2025-01-28T02:22:08Z",
+      "account": "travel",
+      "amount": "-2694.93",
+      "currency": "USD",
+      "memo": "memo-0057",
+      "status": "posted"
+    },
+    {
+      "index": 58,
+      "timestamp": "2025-01-28T02:28:46Z",
+      "account": "Café Müller",
+      "amount": "1718.89",
+      "currency": "USD",
+      "memo": "memo-0058",
+      "status": "posted"
+    },
+    {
+      "index": 59,
+      "timestamp": "2025-01-28T02:34:05Z",
+      "account": "Café Müller",
+      "amount": "4473.60",
+      "currency": "USD",
+      "memo": "memo-0059",
+      "status": "posted"
+    },
+    {
+      "index": 60,
+      "timestamp": "2025-01-28T02:35:22Z",
+      "account": "ops",
+      "amount": "-4673.55",
+      "currency": "USD",
+      "memo": "memo-0060",
+      "status": "posted"
+    },
+    {
+      "index": 61,
+      "timestamp": "2025-01-28T02:39:44Z",
+      "account": "marketing",
+      "amount": "2017.72",
+      "currency": "EUR",
+      "memo": "memo-0061",
+      "status": "posted"
+    },
+    {
+      "index": 62,
+      "timestamp": "2025-01-28T02:45:34Z",
+      "account": "ops",
+      "amount": "269.09",
+      "currency": "USD",
+      "memo": "memo-0062",
+      "status": "posted"
+    },
+    {
+      "index": 63,
+      "timestamp": "2025-01-28T02:54:17Z",
+      "account": "marketing",
+      "amount": "3133.22",
+      "currency": "EUR",
+      "memo": "memo-0063",
+      "status": "posted"
+    },
+    {
+      "index": 64,
+      "timestamp": "2025-01-28T03:03:06Z",
+      "account": "rnd",
+      "amount": "-4184.30",
+      "currency": "USD",
+      "memo": "memo-0064",
+      "status": "posted"
+    },
+    {
+      "index": 65,
+      "timestamp": "2025-01-28T03:10:27Z",
+      "account": "ops",
+      "amount": "-4258.64",
+      "currency": "EUR",
+      "memo": "memo-0065",
+      "status": "posted"
+    },
+    {
+      "index": 66,
+      "timestamp": "2025-01-28T03:18:56Z",
+      "account": "marketing",
+      "amount": "1554.11",
+      "currency": "USD",
+      "memo": "memo-0066",
+      "status": "posted"
+    },
+    {
+      "index": 67,
+      "timestamp": "2025-01-28T03:21:42Z",
+      "account": "Café Müller",
+      "amount": "411.20",
+      "currency": "EUR",
+      "memo": "memo-0067",
+      "status": "posted"
+    },
+    {
+      "index": 68,
+      "timestamp": "2025-01-28T03:28:52Z",
+      "account": "Café Müller",
+      "amount": "-2419.83",
+      "currency": "EUR",
+      "memo": "memo-0068",
+      "status": "posted"
+    },
+    {
+      "index": 69,
+      "timestamp": "2025-01-28T03:33:12Z",
+      "account": "travel",
+      "amount": "4640.60",
+      "currency": "EUR",
+      "memo": "memo-0069",
+      "status": "posted"
+    },
+    {
+      "index": 70,
+      "timestamp": "2025-01-28T03:35:52Z",
+      "account": "marketing",
+      "amount": "-1539.32",
+      "currency": "EUR",
+      "memo": "memo-0070",
+      "status": "posted"
+    },
+    {
+      "index": 71,
+      "timestamp": "2025-01-28T03:36:37Z",
+      "account": "marketing",
+      "amount": "2755.32",
+      "currency": "EUR",
+      "memo": "memo-0071",
+      "status": "pending"
+    },
+    {
+      "index": 72,
+      "timestamp": "2025-01-28T03:40:56Z",
+      "account": "payroll",
+      "amount": "1386.70",
+      "currency": "USD",
+      "memo": "memo-0072",
+      "status": "posted"
+    },
+    {
+      "index": 73,
+      "timestamp": "2025-01-28T03:50:04Z",
+      "account": "travel",
+      "amount": "-1177.65",
+      "currency": "EUR",
+      "memo": "memo-0073",
+      "status": "pending"
+    },
+    {
+      "index": 74,
+      "timestamp": "2025-01-28T03:50:12Z",
+      "account": "rnd",
+      "amount": "82.97",
+      "currency": "USD",
+      "memo": "memo-0074",
+      "status": "posted"
+    },
+    {
+      "index": 75,
+      "timestamp": "2025-01-28T03:56:52Z",
+      "account": "marketing",
+      "amount": "-4091.89",
+      "currency": "EUR",
+      "memo": "memo-0075",
+      "status": "posted"
+    },
+    {
+      "index": 76,
+      "timestamp": "2025-01-28T03:57:19Z",
+      "account": "rnd",
+      "amount": "3496.27",
+      "currency": "EUR",
+      "memo": "memo-0076",
+      "status": "pending"
+    },
+    {
+      "index": 77,
+      "timestamp": "2025-01-28T03:57:57Z",
+      "account": "marketing",
+      "amount": "2803.14",
+      "currency": "EUR",
+      "memo": "memo-0077",
+      "status": "posted"
+    },
+    {
+      "index": 78,
+      "timestamp": "2025-01-28T04:02:53Z",
+      "account": "Café Müller",
+      "amount": "1694.68",
+      "currency": "USD",
+      "memo": "memo-0078",
+      "status": "posted"
+    },
+    {
+      "index": 79,
+      "timestamp": "2025-01-28T04:10:03Z",
+      "account": "marketing",
+      "amount": "3848.50",
+      "currency": "USD",
+      "memo": "memo-0079",
+      "status": "posted"
+    },
+    {
+      "index": 80,
+      "timestamp": "2025-01-28T04:19:51Z",
+      "account": "travel",
+      "amount": "604.42",
+      "currency": "USD",
+      "memo": "memo-0080",
+      "status": "posted"
+    },
+    {
+      "index": 81,
+      "timestamp": "2025-01-28T04:28:24Z",
+      "account": "travel",
+      "amount": "566.99",
+      "currency": "USD",
+      "memo": "memo-0081",
+      "status": "posted"
+    },
+    {
+      "index": 82,
+      "timestamp": "2025-01-28T04:36:44Z",
+      "account": "rnd",
+      "amount": "1751.94",
+      "currency": "USD",
+      "memo": "memo-0082",
+      "status": "pending"
+    },
+    {
+      "index": 83,
+      "timestamp": "2025-01-28T04:46:06Z",
+      "account": "rnd",
+      "amount": "4285.80",
+      "currency": "EUR",
+      "memo": "memo-0083",
+      "status": "posted"
+    },
+    {
+      "index": 84,
+      "timestamp": "2025-01-28T04:46:21Z",
+      "account": "Café Müller",
+      "amount": "-3719.20",
+      "currency": "EUR",
+      "memo": "memo-0084",
+      "status": "posted"
+    },
+    {
+      "index": 85,
+      "timestamp": "2025-01-28T04:46:35Z",
+      "account": "Café Müller",
+      "amount": "4037.08",
+      "currency": "USD",
+      "memo": "memo-0085",
+      "status": "pending"
+    },
+    {
+      "index": 86,
+      "timestamp": "2025-01-28T04:56:34Z",
+      "account": "payroll",
+      "amount": "-1577.34",
+      "currency": "EUR",
+      "memo": "memo-0086",
+      "status": "posted"
+    },
+    {
+      "index": 87,
+      "timestamp": "2025-01-28T05:00:21Z",
+      "account": "ops",
+      "amount": "2327.90",
+      "currency": "USD",
+      "memo": "memo-0087",
+      "status": "posted"
+    },
+    {
+      "index": 88,
+      "timestamp": "2025-01-28T05:07:06Z",
+      "account": "rnd",
+      "amount": "3979.50",
+      "currency": "EUR",
+      "memo": "memo-0088",
+      "status": "posted"
+    },
+    {
+      "index": 89,
+      "timestamp": "2025-01-28T05:16:50Z",
+      "account": "rnd",
+      "amount": "3474.59",
+      "currency": "EUR",
+      "memo": "memo-0089",
+      "status": "posted"
+    },
+    {
+      "index": 90,
+      "timestamp": "2025-01-28T05:21:04Z",
+      "account": "Café Müller",
+      "amount": "4170.93",
+      "currency": "USD",
+      "memo": "memo-0090",
+      "status": "pending"
+    },
+    {
+      "index": 91,
+      "timestamp": "2025-01-28T05:26:32Z",
+      "account": "Café Müller",
+      "amount": "4225.76",
+      "currency": "USD",
+      "memo": "memo-0091",
+      "status": "posted"
+    },
+    {
+      "index": 92,
+      "timestamp": "2025-01-28T05:26:55Z",
+      "account": "marketing",
+      "amount": "684.44",
+      "currency": "USD",
+      "memo": "memo-0092",
+      "status": "pending"
+    },
+    {
+      "index": 93,
+      "timestamp": "2025-01-28T05:34:02Z",
+      "account": "rnd",
+      "amount": "-2096.66",
+      "currency": "USD",
+      "memo": "memo-0093",
+      "status": "posted"
+    },
+    {
+      "index": 94,
+      "timestamp": "2025-01-28T05:43:30Z",
+      "account": "travel",
+      "amount": "1990.30",
+      "currency": "EUR",
+      "memo": "memo-0094",
+      "status": "posted"
+    },
+    {
+      "index": 95,
+      "timestamp": "2025-01-28T05:44:42Z",
+      "account": "travel",
+      "amount": "2098.54",
+      "currency": "EUR",
+      "memo": "memo-0095",
+      "status": "posted"
+    },
+    {
+      "index": 96,
+      "timestamp": "2025-01-28T05:51:32Z",
+      "account": "rnd",
+      "amount": "4453.70",
+      "currency": "EUR",
+      "memo": "memo-0096",
+      "status": "posted"
+    },
+    {
+      "index": 97,
+      "timestamp": "2025-01-28T05:55:28Z",
+      "account": "ops",
+      "amount": "4479.57",
+      "currency": "EUR",
+      "memo": "memo-0097",
+      "status": "posted"
+    },
+    {
+      "index": 98,
+      "timestamp": "2025-01-28T06:04:06Z",
+      "account": "rnd",
+      "amount": "2696.81",
+      "currency": "EUR",
+      "memo": "memo-0098",
+      "status": "posted"
+    },
+    {
+      "index": 99,
+      "timestamp": "2025-01-28T06:13:35Z",
+      "account": "payroll",
+      "amount": "4996.29",
+      "currency": "USD",
+      "memo": "memo-0099",
+      "status": "posted"
+    },
+    {
+      "index": 100,
+      "timestamp": "2025-01-28T06:23:04Z",
+      "account": "rnd",
+      "amount": "2007.84",
+      "currency": "EUR",
+      "memo": "memo-0100",
+      "status": "posted"
+    },
+    {
+      "index": 101,
+      "timestamp": "2025-01-28T06:27:35Z",
+      "account": "marketing",
+      "amount": "1579.02",
+      "currency": "EUR",
+      "memo": "memo-0101",
+      "status": "posted"
+    },
+    {
+      "index": 102,
+      "timestamp": "2025-01-28T06:29:12Z",
+      "account": "travel",
+      "amount": "563.16",
+      "currency": "EUR",
+      "memo": "memo-0102",
+      "status": "posted"
+    },
+    {
+      "index": 103,
+      "timestamp": "2025-01-28T06:38:12Z",
+      "account": "rnd",
+      "amount": "3458.99",
+      "currency": "USD",
+      "memo": "memo-0103",
+      "status": "posted"
+    },
+    {
+      "index": 104,
+      "timestamp": "2025-01-28T06:43:39Z",
+      "account": "payroll",
+      "amount": "2907.07",
+      "currency": "EUR",
+      "memo": "memo-0104",
+      "status": "posted"
+    },
+    {
+      "index": 105,
+      "timestamp": "2025-01-28T06:52:09Z",
+      "account": "marketing",
+      "amount": "89.31",
+      "currency": "EUR",
+      "memo": "memo-0105",
+      "status": "posted"
+    },
+    {
+      "index": 106,
+      "timestamp": "2025-01-28T06:57:08Z",
+      "account": "rnd",
+      "amount": "-3799.05",
+      "currency": "USD",
+      "memo": "memo-0106",
+      "status": "pending"
+    },
+    {
+      "index": 107,
+      "timestamp": "2025-01-28T07:04:23Z",
+      "account": "travel",
+      "amount": "2769.32",
+      "currency": "EUR",
+      "memo": "memo-0107",
+      "status": "posted"
+    },
+    {
+      "index": 108,
+      "timestamp": "2025-01-28T07:12:27Z",
+      "account": "ops",
+      "amount": "2766.91",
+      "currency": "EUR",
+      "memo": "memo-0108",
+      "status": "posted"
+    },
+    {
+      "index": 109,
+      "timestamp": "2025-01-28T07:19:43Z",
+      "account": "Café Müller",
+      "amount": "4320.27",
+      "currency": "USD",
+      "memo": "memo-0109",
+      "status": "posted"
+    },
+    {
+      "index": 110,
+      "timestamp": "2025-01-28T07:23:29Z",
+      "account": "ops",
+      "amount": "-3655.20",
+      "currency": "USD",
+      "memo": "memo-0110",
+      "status": "posted"
+    },
+    {
+      "index": 111,
+      "timestamp": "2025-01-28T07:27:48Z",
+      "account": "ops",
+      "amount": "-2597.07",
+      "currency": "EUR",
+      "memo": "memo-0111",
+      "status": "posted"
+    },
+    {
+      "index": 112,
+      "timestamp": "2025-01-28T07:28:47Z",
+      "account": "Café Müller",
+      "amount": "1148.08",
+      "currency": "EUR",
+      "memo": "memo-0112",
+      "status": "posted"
+    },
+    {
+      "index": 113,
+      "timestamp": "2025-01-28T07:35:40Z",
+      "account": "rnd",
+      "amount": "4222.75",
+      "currency": "EUR",
+      "memo": "memo-0113",
+      "status": "posted"
+    },
+    {
+      "index": 114,
+      "timestamp": "2025-01-28T07:37:21Z",
+      "account": "payroll",
+      "amount": "2244.98",
+      "currency": "EUR",
+      "memo": "memo-0114",
+      "status": "posted"
+    },
+    {
+      "index": 115,
+      "timestamp": "2025-01-28T07:45:22Z",
+      "account": "ops",
+      "amount": "4278.03",
+      "currency": "USD",
+      "memo": "memo-0115",
+      "status": "posted"
+    },
+    {
+      "index": 116,
+      "timestamp": "2025-01-28T07:53:00Z",
+      "account": "ops",
+      "amount": "77.16",
+      "currency": "EUR",
+      "memo": "memo-0116",
+      "status": "posted"
+    },
+    {
+      "index": 117,
+      "timestamp": "2025-01-28T08:00:17Z",
+      "account": "Café Müller",
+      "amount": "654.50",
+      "currency": "USD",
+      "memo": "memo-0117",
+      "status": "posted"
+    },
+    {
+      "index": 118,
+      "timestamp": "2025-01-28T08:05:35Z",
+      "account": "ops",
+      "amount": "4913.60",
+      "currency": "EUR",
+      "memo": "memo-0118",
+      "status": "posted"
+    },
+    {
+      "index": 119,
+      "timestamp": "2025-01-28T08:10:09Z",
+      "account": "Café Müller",
+      "amount": "2795.53",
+      "currency": "EUR",
+      "memo": "memo-0119",
+      "status": "posted"
+    },
+    {
+      "index": 120,
+      "timestamp": "2025-01-28T08:11:50Z",
+      "account": "ops",
+      "amount": "2085.78",
+      "currency": "EUR",
+      "memo": "memo-0120",
+      "status": "posted"
+    },
+    {
+      "index": 121,
+      "timestamp": "2025-01-28T08:15:52Z",
+      "account": "travel",
+      "amount": "4537.33",
+      "currency": "USD",
+      "memo": "memo-0121",
+      "status": "posted"
+    },
+    {
+      "index": 122,
+      "timestamp": "2025-01-28T08:22:26Z",
+      "account": "marketing",
+      "amount": "3320.64",
+      "currency": "EUR",
+      "memo": "memo-0122",
+      "status": "posted"
+    },
+    {
+      "index": 123,
+      "timestamp": "2025-01-28T08:30:50Z",
+      "account": "ops",
+      "amount": "828.36",
+      "currency": "USD",
+      "memo": "memo-0123",
+      "status": "posted"
+    },
+    {
+      "index": 124,
+      "timestamp": "2025-01-28T08:36:24Z",
+      "account": "ops",
+      "amount": "1573.92",
+      "currency": "USD",
+      "memo": "memo-0124",
+      "status": "posted"
+    },
+    {
+      "index": 125,
+      "timestamp": "2025-01-28T08:41:19Z",
+      "account": "ops",
+      "amount": "271.71",
+      "currency": "USD",
+      "memo": "memo-0125",
+      "status": "posted"
+    },
+    {
+      "index": 126,
+      "timestamp": "2025-01-28T08:46:43Z",
+      "account": "travel",
+      "amount": "3382.17",
+      "currency": "USD",
+      "memo": "memo-0126",
+      "status": "pending"
+    },
+    {
+      "index": 127,
+      "timestamp": "2025-01-28T08:53:32Z",
+      "account": "payroll",
+      "amount": "2691.89",
+      "currency": "USD",
+      "memo": "memo-0127",
+      "status": "posted"
+    },
+    {
+      "index": 128,
+      "timestamp": "2025-01-28T08:57:26Z",
+      "account": "travel",
+      "amount": "-3129.21",
+      "currency": "EUR",
+      "memo": "memo-0128",
+      "status": "posted"
+    },
+    {
+      "index": 129,
+      "timestamp": "2025-01-28T08:57:55Z",
+      "account": "ops",
+      "amount": "-898.98",
+      "currency": "EUR",
+      "memo": "memo-0129",
+      "status": "posted"
+    },
+    {
+      "index": 130,
+      "timestamp": "2025-01-28T09:02:44Z",
+      "account": "travel",
+      "amount": "-267.29",
+      "currency": "USD",
+      "memo": "memo-0130",
+      "status": "posted"
+    },
+    {
+      "index": 131,
+      "timestamp": "2025-01-28T09:03:10Z",
+      "account": "Café Müller",
+      "amount": "3479.96",
+      "currency": "USD",
+      "memo": "memo-0131",
+      "status": "pending"
+    },
+    {
+      "index": 132,
+      "timestamp": "2025-01-28T09:11:17Z",
+      "account": "Café Müller",
+      "amount": "4966.09",
+      "currency": "USD",
+      "memo": "memo-0132",
+      "status": "posted"
+    },
+    {
+      "index": 133,
+      "timestamp": "2025-01-28T09:11:21Z",
+      "account": "Café Müller",
+      "amount": "-123.82",
+      "currency": "USD",
+      "memo": "memo-0133",
+      "status": "posted"
+    },
+    {
+      "index": 134,
+      "timestamp": "2025-01-28T09:11:41Z",
+      "account": "travel",
+      "amount": "4902.34",
+      "currency": "EUR",
+      "memo": "memo-0134",
+      "status": "posted"
+    },
+    {
+      "index": 135,
+      "timestamp": "2025-01-28T09:17:11Z",
+      "account": "ops",
+      "amount": "3653.43",
+      "currency": "USD",
+      "memo": "memo-0135",
+      "status": "posted"
+    },
+    {
+      "index": 136,
+      "timestamp": "2025-01-28T09:21:12Z",
+      "account": "travel",
+      "amount": "3472.97",
+      "currency": "EUR",
+      "memo": "memo-0136",
+      "status": "pending"
+    },
+    {
+      "index": 137,
+      "timestamp": "2025-01-28T09:31:12Z",
+      "account": "Café Müller",
+      "amount": "710.44",
+      "currency": "USD",
+      "memo": "memo-0137",
+      "status": "pending"
+    },
+    {
+      "index": 138,
+      "timestamp": "2025-01-28T09:37:08Z",
+      "account": "ops",
+      "amount": "-656.77",
+      "currency": "EUR",
+      "memo": "memo-0138",
+      "status": "posted"
+    },
+    {
+      "index": 139,
+      "timestamp": "2025-01-28T09:42:35Z",
+      "account": "Café Müller",
+      "amount": "-414.35",
+      "currency": "EUR",
+      "memo": "memo-0139",
+      "status": "posted"
+    },
+    {
+      "index": 140,
+      "timestamp": "2025-01-28T09:51:28Z",
+      "account": "travel",
+      "amount": "22.76",
+      "currency": "EUR",
+      "memo": "memo-0140",
+      "status": "posted"
+    },
+    {
+      "index": 141,
+      "timestamp": "2025-01-28T09:51:54Z",
+      "account": "rnd",
+      "amount": "597.62",
+      "currency": "USD",
+      "memo": "memo-0141",
+      "status": "pending"
+    },
+    {
+      "index": 142,
+      "timestamp": "2025-01-28T09:56:58Z",
+      "account": "ops",
+      "amount": "2136.24",
+      "currency": "EUR",
+      "memo": "memo-0142",
+      "status": "posted"
+    },
+    {
+      "index": 143,
+      "timestamp": "2025-01-28T10:00:19Z",
+      "account": "ops",
+      "amount": "50.27",
+      "currency": "USD",
+      "memo": "memo-0143",
+      "status": "posted"
+    },
+    {
+      "index": 144,
+      "timestamp": "2025-01-28T10:07:00Z",
+      "account": "rnd",
+      "amount": "992.87",
+      "currency": "USD",
+      "memo": "memo-0144",
+      "status": "posted"
+    },
+    {
+      "index": 145,
+      "timestamp": "2025-01-28T10:08:57Z",
+      "account": "Café Müller",
+      "amount": "2220.70",
+      "currency": "USD",
+      "memo": "memo-0145",
+      "status": "posted"
+    },
+    {
+      "index": 146,
+      "timestamp": "2025-01-28T10:11:29Z",
+      "account": "Café Müller",
+      "amount": "2844.20",
+      "currency": "USD",
+      "memo": "memo-0146",
+      "status": "posted"
+    },
+    {
+      "index": 147,
+      "timestamp": "2025-01-28T10:15:15Z",
+      "account": "Café Müller",
+      "amount": "2709.02",
+      "currency": "EUR",
+      "memo": "memo-0147",
+      "status": "posted"
+    },
+    {
+      "index": 148,
+      "timestamp": "2025-01-28T10:17:05Z",
+      "account": "Café Müller",
+      "amount": "262.00",
+      "currency": "EUR",
+      "memo": "memo-0148",
+      "status": "posted"
+    },
+    {
+      "index": 149,
+      "timestamp": "2025-01-28T10:17:51Z",
+      "account": "Café Müller",
+      "amount": "685.86",
+      "currency": "USD",
+      "memo": "memo-0149",
+      "status": "posted"
+    },
+    {
+      "index": 150,
+      "timestamp": "2025-01-28T10:26:26Z",
+      "account": "payroll",
+      "amount": "-2036.70",
+      "currency": "USD",
+      "memo": "memo-0150",
+      "status": "posted"
+    },
+    {
+      "index": 151,
+      "timestamp": "2025-01-28T10:27:16Z",
+      "account": "ops",
+      "amount": "-3988.46",
+      "currency": "USD",
+      "memo": "memo-0151",
+      "status": "posted"
+    },
+    {
+      "index": 152,
+      "timestamp": "2025-01-28T10:31:17Z",
+      "account": "rnd",
+      "amount": "4988.78",
+      "currency": "USD",
+      "memo": "memo-0152",
+      "status": "pending"
+    },
+    {
+      "index": 153,
+      "timestamp": "2025-01-28T10:37:51Z",
+      "account": "rnd",
+      "amount": "3436.29",
+      "currency": "EUR",
+      "memo": "memo-0153",
+      "status": "posted"
+    },
+    {
+      "index": 154,
+      "timestamp": "2025-01-28T10:47:19Z",
+      "account": "ops",
+      "amount": "2488.71",
+      "currency": "USD",
+      "memo": "memo-0154",
+      "status": "posted"
+    },
+    {
+      "index": 155,
+      "timestamp": "2025-01-28T10:53:57Z",
+      "account": "travel",
+      "amount": "3378.37",
+      "currency": "USD",
+      "memo": "memo-0155",
+      "status": "posted"
+    },
+    {
+      "index": 156,
+      "timestamp": "2025-01-28T10:58:03Z",
+      "account": "payroll",
+      "amount": "1673.26",
+      "currency": "USD",
+      "memo": "memo-0156",
+      "status": "posted"
+    },
+    {
+      "index": 157,
+      "timestamp": "2025-01-28T11:02:48Z",
+      "account": "ops",
+      "amount": "2527.20",
+      "currency": "USD",
+      "memo": "memo-0157",
+      "status": "posted"
+    },
+    {
+      "index": 158,
+      "timestamp": "2025-01-28T11:04:20Z",
+      "account": "ops",
+      "amount": "4222.40",
+      "currency": "USD",
+      "memo": "memo-0158",
+      "status": "posted"
+    },
+    {
+      "index": 159,
+      "timestamp": "2025-01-28T11:11:26Z",
+      "account": "marketing",
+      "amount": "-3728.55",
+      "currency": "USD",
+      "memo": "memo-0159",
+      "status": "posted"
+    },
+    {
+      "index": 160,
+      "timestamp": "2025-01-28T11:16:57Z",
+      "account": "ops",
+      "amount": "243.23",
+      "currency": "USD",
+      "memo": "memo-0011",
+      "status": "pending"
+    },
+    {
+      "index": 161,
+      "timestamp": "2025-01-28T11:18:06Z",
+      "account": "Café Müller",
+      "amount": "4280.52",
+      "currency": "EUR",
+      "memo": "memo-0079",
+      "status": "posted"
+    },
+    {
+      "index": 162,
+      "timestamp": "2025-01-28T11:20:40Z",
+      "account": "ops",
+      "amount": "1485.04",
+      "currency": "EUR",
+      "memo": "memo-0115",
+      "status": "posted"
+    },
+    {
+      "index": 163,
+      "timestamp": "2025-01-28T11:22:16Z",
+      "account": "Café Müller",
+      "amount": "2839.26",
+      "currency": "EUR",
+      "memo": "memo-0047",
+      "status": "posted"
+    },
+    {
+      "index": 164,
+      "timestamp": "2025-01-28T11:24:07Z",
+      "account": "travel",
+      "amount": "4287.15",
+      "currency": "USD",
+      "memo": "memo-0159",
+      "status": "posted"
+    },
+    {
+      "index": 165,
+      "timestamp": "2025-01-28T11:28:21Z",
+      "account": "ops",
+      "amount": "4912.52",
+      "currency": "EUR",
+      "memo": "memo-0004",
+      "status": "pending"
+    },
+    {
+      "index": 166,
+      "timestamp": "2025-01-28T11:30:20Z",
+      "account": "rnd",
+      "amount": "3297.52",
+      "currency": "EUR",
+      "memo": "memo-0047",
+      "status": "posted"
+    },
+    {
+      "index": 167,
+      "timestamp": "2025-01-28T11:35:44Z",
+      "account": "Café Müller",
+      "amount": "949.44",
+      "currency": "EUR",
+      "memo": "memo-0059",
+      "status": "posted"
+    },
+    {
+      "index": 168,
+      "timestamp": "2025-01-28T11:45:22Z",
+      "account": "ops",
+      "amount": "-740.06",
+      "currency": "EUR",
+      "memo": "memo-0017",
+      "status": "posted"
+    },
+    {
+      "index": 169,
+      "timestamp": "2025-01-28T11:48:48Z",
+      "account": "marketing",
+      "amount": "2074.69",
+      "currency": "EUR",
+      "memo": "memo-0052",
+      "status": "posted"
+    },
+    {
+      "index": 170,
+      "timestamp": "2025-01-28T11:49:22Z",
+      "account": "travel",
+      "amount": "239.53",
+      "currency": "EUR",
+      "memo": "memo-0049",
+      "status": "posted"
+    },
+    {
+      "index": 171,
+      "timestamp": "2025-01-28T11:50:06Z",
+      "account": "travel",
+      "amount": "77.35",
+      "currency": "EUR",
+      "memo": "memo-0009",
+      "status": "pending"
+    },
+    {
+      "index": 172,
+      "timestamp": "2025-01-28T11:53:01Z",
+      "account": "marketing",
+      "amount": "4753.16",
+      "currency": "EUR",
+      "memo": "memo-0050",
+      "status": "posted"
+    },
+    {
+      "index": 173,
+      "timestamp": "2025-01-28T11:58:21Z",
+      "account": "payroll",
+      "amount": "4396.04",
+      "currency": "EUR",
+      "memo": "memo-0148",
+      "status": "posted"
+    },
+    {
+      "index": 174,
+      "timestamp": "2025-01-28T12:02:58Z",
+      "account": "ops",
+      "amount": "2271.67",
+      "currency": "USD",
+      "memo": "memo-0046",
+      "status": "posted"
+    },
+    {
+      "index": 175,
+      "timestamp": "2025-01-28T12:04:39Z",
+      "account": "payroll",
+      "amount": "-1468.19",
+      "currency": "USD",
+      "memo": "memo-0084",
+      "status": "posted"
+    },
+    {
+      "index": 176,
+      "timestamp": "2025-01-28T12:08:15Z",
+      "account": "Café Müller",
+      "amount": "1078.50",
+      "currency": "EUR",
+      "memo": "memo-0067",
+      "status": "posted"
+    },
+    {
+      "index": 177,
+      "timestamp": "2025-01-28T12:15:53Z",
+      "account": "Café Müller",
+      "amount": "2818.70",
+      "currency": "EUR",
+      "memo": "memo-0151",
+      "status": "posted"
+    },
+    {
+      "index": 178,
+      "timestamp": "2025-01-28T12:16:32Z",
+      "account": "ops",
+      "amount": "3799.15",
+      "currency": "USD",
+      "memo": "memo-0119",
+      "status": "posted"
+    },
+    {
+      "index": 179,
+      "timestamp": "2025-01-28T12:24:15Z",
+      "account": "payroll",
+      "amount": "1796.36",
+      "currency": "EUR",
+      "memo": "memo-0026",
+      "status": "pending"
+    },
+    {
+      "index": 180,
+      "timestamp": "2025-01-28T12:31:19Z",
+      "account": "marketing",
+      "amount": "-2330.54",
+      "currency": "USD",
+      "memo": "memo-0017",
+      "status": "posted"
+    },
+    {
+      "index": 181,
+      "timestamp": "2025-01-28T12:38:42Z",
+      "account": "Café Müller",
+      "amount": "2315.06",
+      "currency": "EUR",
+      "memo": "memo-0018",
+      "status": "posted"
+    },
+    {
+      "index": 182,
+      "timestamp": "2025-01-28T12:41:52Z",
+      "account": "marketing",
+      "amount": "3919.78",
+      "currency": "EUR",
+      "memo": "memo-0105",
+      "status": "posted"
+    },
+    {
+      "index": 183,
+      "timestamp": "2025-01-28T12:48:14Z",
+      "account": "Café Müller",
+      "amount": "3934.22",
+      "currency": "EUR",
+      "memo": "memo-0053",
+      "status": "pending"
+    },
+    {
+      "index": 184,
+      "timestamp": "2025-01-28T12:48:26Z",
+      "account": "Café Müller",
+      "amount": "1104.65",
+      "currency": "USD",
+      "memo": "memo-0097",
+      "status": "posted"
+    },
+    {
+      "index": 185,
+      "timestamp": "2025-01-28T12:50:20Z",
+      "account": "marketing",
+      "amount": "1741.84",
+      "currency": "USD",
+      "memo": "memo-0090",
+      "status": "pending"
+    },
+    {
+      "index": 186,
+      "timestamp": "2025-01-28T12:52:22Z",
+      "account": "travel",
+      "amount": "-3322.51",
+      "currency": "EUR",
+      "memo": "memo-0135",
+      "status": "posted"
+    },
+    {
+      "index": 187,
+      "timestamp": "2025-01-28T12:55:46Z",
+      "account": "payroll",
+      "amount": "1535.50",
+      "currency": "EUR",
+      "memo": "memo-0112",
+      "status": "pending"
+    },
+    {
+      "index": 188,
+      "timestamp": "2025-01-28T12:56:09Z",
+      "account": "Café Müller",
+      "amount": "1322.76",
+      "currency": "EUR",
+      "memo": "memo-0004",
+      "status": "posted"
+    },
+    {
+      "index": 189,
+      "timestamp": "2025-01-28T12:56:36Z",
+      "account": "rnd",
+      "amount": "-208.53",
+      "currency": "EUR",
+      "memo": "memo-0149",
+      "status": "posted"
+    },
+    {
+      "index": 190,
+      "timestamp": "2025-01-28T12:58:11Z",
+      "account": "travel",
+      "amount": "610.86",
+      "currency": "USD",
+      "memo": "memo-0046",
+      "status": "posted"
+    },
+    {
+      "index": 191,
+      "timestamp": "2025-01-28T13:02:35Z",
+      "account": "Café Müller",
+      "amount": "1025.58",
+      "currency": "EUR",
+      "memo": "memo-0079",
+      "status": "posted"
+    },
+    {
+      "index": 192,
+      "timestamp": "2025-01-28T13:11:36Z",
+      "account": "payroll",
+      "amount": "3318.51",
+      "currency": "EUR",
+      "memo": "memo-0056",
+      "status": "posted"
+    },
+    {
+      "index": 193,
+      "timestamp": "2025-01-28T13:19:47Z",
+      "account": "payroll",
+      "amount": "3137.36",
+      "currency": "EUR",
+      "memo": "memo-0158",
+      "status": "posted"
+    },
+    {
+      "index": 194,
+      "timestamp": "2025-01-28T13:20:44Z",
+      "account": "travel",
+      "amount": "-3129.57",
+      "currency": "EUR",
+      "memo": "memo-0061",
+      "status": "posted"
+    },
+    {
+      "index": 195,
+      "timestamp": "2025-01-28T13:25:06Z",
+      "account": "payroll",
+      "amount": "4231.03",
+      "currency": "EUR",
+      "memo": "memo-0085",
+      "status": "posted"
+    },
+    {
+      "index": 196,
+      "timestamp": "2025-01-28T13:26:42Z",
+      "account": "marketing",
+      "amount": "1402.96",
+      "currency": "USD",
+      "memo": "memo-0145",
+      "status": "posted"
+    },
+    {
+      "index": 197,
+      "timestamp": "2025-01-28T13:27:18Z",
+      "account": "marketing",
+      "amount": "-2803.31",
+      "currency": "EUR",
+      "memo": "memo-0081",
+      "status": "pending"
+    },
+    {
+      "index": 198,
+      "timestamp": "2025-01-28T13:28:22Z",
+      "account": "travel",
+      "amount": "437.08",
+      "currency": "USD",
+      "memo": "memo-0131",
+      "status": "posted"
+    },
+    {
+      "index": 199,
+      "timestamp": "2025-01-28T13:32:06Z",
+      "account": "payroll",
+      "amount": "2176.16",
+      "currency": "USD",
+      "memo": "memo-0064",
+      "status": "posted"
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "default_currency": "JPY",
+  "accounts": [
+    "legal",
+    "sales",
+    "facilities",
+    "audit",
+    "Café Müller",
+    "marketing",
+    "hr",
+    "travel",
+    "fx"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2021-10-14T15:25:35Z",
+      "account": "facilities",
+      "amount": "33816.15",
+      "currency": "EUR",
+      "memo": "",
+      "status": "pending"
+    },
+    {
+      "index": 1,
+      "timestamp": "2021-10-17T23:01:45Z",
+      "account": "travel",
+      "amount": "16159.46",
+      "currency": "USD",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 2,
+      "timestamp": "2021-10-18T04:24:42Z",
+      "account": "facilities",
+      "amount": "-7843.825",
+      "currency": "KWD",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 3,
+      "timestamp": "2021-10-22T12:09:04Z",
+      "account": "audit",
+      "amount": "43657.38",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 4,
+      "timestamp": "2021-10-27T00:59:48Z",
+      "account": "fx",
+      "amount": "5567.673",
+      "currency": "KWD",
+      "memo": "出張費",
+      "status": "pending"
+    },
+    {
+      "index": 5,
+      "timestamp": "2021-10-27T04:35:57Z",
+      "account": "facilities",
+      "amount": "-9251213",
+      "currency": "JPY",
+      "memo": "出張費",
+      "status": "pending"
+    },
+    {
+      "index": 6,
+      "timestamp": "2021-10-29T00:34:44Z",
+      "account": "marketing",
+      "amount": "2866568",
+      "currency": "JPY",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 7,
+      "timestamp": "2021-10-31T23:29:30Z",
+      "account": "hr",
+      "amount": "-89285.43",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 8,
+      "timestamp": "2021-11-03T19:53:26Z",
+      "account": "legal",
+      "amount": "5661030",
+      "currency": "JPY",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 9,
+      "timestamp": "2021-11-05T01:15:35Z",
+      "account": "travel",
+      "amount": "48505.84",
+      "currency": "USD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 10,
+      "timestamp": "2021-11-08T15:52:48Z",
+      "account": "audit",
+      "amount": "34359.36",
+      "currency": "USD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 11,
+      "timestamp": "2021-11-11T20:31:51Z",
+      "account": "facilities",
+      "amount": "6937425",
+      "currency": "JPY",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 12,
+      "timestamp": "2021-11-15T01:09:20Z",
+      "account": "marketing",
+      "amount": "6252656",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 13,
+      "timestamp": "2021-11-19T07:16:53Z",
+      "account": "facilities",
+      "amount": "-8404.084",
+      "currency": "KWD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 14,
+      "timestamp": "2021-11-22T06:15:41Z",
+      "account": "travel",
+      "amount": "5739.709",
+      "currency": "KWD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 15,
+      "timestamp": "2021-11-24T22:09:47Z",
+      "account": "travel",
+      "amount": "3795.205",
+      "currency": "KWD",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 16,
+      "timestamp": "2021-11-26T19:13:31Z",
+      "account": "legal",
+      "amount": "-50763.97",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 17,
+      "timestamp": "2021-11-30T04:16:21Z",
+      "account": "travel",
+      "amount": "1563170",
+      "currency": "JPY",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 18,
+      "timestamp": "2021-12-04T13:08:53Z",
+      "account": "legal",
+      "amount": "6616409",
+      "currency": "JPY",
+      "memo": "Café Müller – lunch",
+      "status": "pending"
+    },
+    {
+      "index": 19,
+      "timestamp": "2021-12-09T01:00:25Z",
+      "account": "hr",
+      "amount": "-41296.04",
+      "currency": "EUR",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 20,
+      "timestamp": "2021-12-10T15:49:16Z",
+      "account": "sales",
+      "amount": "-85057.89",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 21,
+      "timestamp": "2021-12-12T19:53:47Z",
+      "account": "legal",
+      "amount": "3379.737",
+      "currency": "KWD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 22,
+      "timestamp": "2021-12-13T11:56:11Z",
+      "account": "hr",
+      "amount": "-77432.94",
+      "currency": "USD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 23,
+      "timestamp": "2021-12-16T12:47:19Z",
+      "account": "facilities",
+      "amount": "28221.41",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 24,
+      "timestamp": "2021-12-18T11:54:06Z",
+      "account": "legal",
+      "amount": "9561.268",
+      "currency": "KWD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 25,
+      "timestamp": "2021-12-19T16:38:28Z",
+      "account": "facilities",
+      "amount": "7870936",
+      "currency": "JPY",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 26,
+      "timestamp": "2021-12-20T23:26:16Z",
+      "account": "hr",
+      "amount": "44770.96",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 27,
+      "timestamp": "2021-12-21T02:11:46Z",
+      "account": "travel",
+      "amount": "4102271",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 28,
+      "timestamp": "2021-12-23T14:37:31Z",
+      "account": "legal",
+      "amount": "-12148.00",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 29,
+      "timestamp": "2021-12-24T19:56:59Z",
+      "account": "sales",
+      "amount": "-27507.00",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "pending"
+    },
+    {
+      "index": 30,
+      "timestamp": "2021-12-28T17:01:58Z",
+      "account": "travel",
+      "amount": "3957.977",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 31,
+      "timestamp": "2021-12-31T01:47:54Z",
+      "account": "hr",
+      "amount": "1783.833",
+      "currency": "KWD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 32,
+      "timestamp": "2022-01-03T23:25:44Z",
+      "account": "sales",
+      "amount": "52010.01",
+      "currency": "USD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 33,
+      "timestamp": "2022-01-05T01:55:46Z",
+      "account": "Café Müller",
+      "amount": "7632787",
+      "currency": "JPY",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 34,
+      "timestamp": "2022-01-07T17:49:29Z",
+      "account": "fx",
+      "amount": "7508894",
+      "currency": "JPY",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 35,
+      "timestamp": "2022-01-11T18:37:32Z",
+      "account": "travel",
+      "amount": "258398",
+      "currency": "JPY",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 36,
+      "timestamp": "2022-01-13T18:07:29Z",
+      "account": "sales",
+      "amount": "-4378.441",
+      "currency": "KWD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 37,
+      "timestamp": "2022-01-14T10:18:54Z",
+      "account": "facilities",
+      "amount": "9699620",
+      "currency": "JPY",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 38,
+      "timestamp": "2022-01-16T19:51:00Z",
+      "account": "audit",
+      "amount": "-3720433",
+      "currency": "JPY",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 39,
+      "timestamp": "2022-01-21T07:43:38Z",
+      "account": "audit",
+      "amount": "79148.69",
+      "currency": "USD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 40,
+      "timestamp": "2022-01-24T05:25:32Z",
+      "account": "facilities",
+      "amount": "29985.11",
+      "currency": "EUR",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 41,
+      "timestamp": "2022-01-26T02:10:05Z",
+      "account": "hr",
+      "amount": "-19248.51",
+      "currency": "EUR",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 42,
+      "timestamp": "2022-01-27T00:57:59Z",
+      "account": "legal",
+      "amount": "2864811",
+      "currency": "JPY",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 43,
+      "timestamp": "2022-01-30T15:03:04Z",
+      "account": "legal",
+      "amount": "60312.57",
+      "currency": "EUR",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 44,
+      "timestamp": "2022-02-01T06:29:52Z",
+      "account": "marketing",
+      "amount": "-1574.101",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 45,
+      "timestamp": "2022-02-02T12:34:59Z",
+      "account": "sales",
+      "amount": "-16146.62",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 46,
+      "timestamp": "2022-02-06T12:42:17Z",
+      "account": "legal",
+      "amount": "2018231",
+      "currency": "JPY",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 47,
+      "timestamp": "2022-02-08T10:48:24Z",
+      "account": "fx",
+      "amount": "88352.10",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 48,
+      "timestamp": "2022-02-10T06:06:13Z",
+      "account": "audit",
+      "amount": "5216.457",
+      "currency": "KWD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 49,
+      "timestamp": "2022-02-11T16:32:31Z",
+      "account": "marketing",
+      "amount": "-27963.57",
+      "currency": "EUR",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 50,
+      "timestamp": "2022-02-12T06:53:16Z",
+      "account": "sales",
+      "amount": "62603.84",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 51,
+      "timestamp": "2022-02-15T18:49:26Z",
+      "account": "Café Müller",
+      "amount": "-4057494",
+      "currency": "JPY",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 52,
+      "timestamp": "2022-02-18T02:38:46Z",
+      "account": "Café Müller",
+      "amount": "7963336",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 53,
+      "timestamp": "2022-02-19T02:15:44Z",
+      "account": "legal",
+      "amount": "9368857",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 54,
+      "timestamp": "2022-02-20T12:19:21Z",
+      "account": "audit",
+      "amount": "19102.29",
+      "currency": "USD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 55,
+      "timestamp": "2022-02-21T22:41:45Z",
+      "account": "audit",
+      "amount": "-68904.76",
+      "currency": "EUR",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 56,
+      "timestamp": "2022-02-24T01:16:22Z",
+      "account": "fx",
+      "amount": "75595.51",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 57,
+      "timestamp": "2022-02-27T16:26:31Z",
+      "account": "travel",
+      "amount": "926.108",
+      "currency": "KWD",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 58,
+      "timestamp": "2022-02-28T21:49:37Z",
+      "account": "Café Müller",
+      "amount": "630141",
+      "currency": "JPY",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 59,
+      "timestamp": "2022-03-05T06:15:13Z",
+      "account": "travel",
+      "amount": "39581.52",
+      "currency": "EUR",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 60,
+      "timestamp": "2022-03-08T09:10:05Z",
+      "account": "marketing",
+      "amount": "-3425.868",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 61,
+      "timestamp": "2022-03-11T16:26:12Z",
+      "account": "facilities",
+      "amount": "5970130",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 62,
+      "timestamp": "2022-03-15T08:48:30Z",
+      "account": "fx",
+      "amount": "7487.015",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 63,
+      "timestamp": "2022-03-18T01:14:31Z",
+      "account": "legal",
+      "amount": "4036.886",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 64,
+      "timestamp": "2022-03-19T02:57:13Z",
+      "account": "sales",
+      "amount": "21744.60",
+      "currency": "USD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 65,
+      "timestamp": "2022-03-22T00:00:07Z",
+      "account": "marketing",
+      "amount": "27904.88",
+      "currency": "EUR",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 66,
+      "timestamp": "2022-03-25T07:01:35Z",
+      "account": "facilities",
+      "amount": "4603165",
+      "currency": "JPY",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 67,
+      "timestamp": "2022-03-25T11:01:14Z",
+      "account": "hr",
+      "amount": "63198.27",
+      "currency": "EUR",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 68,
+      "timestamp": "2022-03-29T21:23:29Z",
+      "account": "Café Müller",
+      "amount": "3348177",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 69,
+      "timestamp": "2022-04-01T01:11:40Z",
+      "account": "audit",
+      "amount": "3973565",
+      "currency": "JPY",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 70,
+      "timestamp": "2022-04-04T05:36:19Z",
+      "account": "sales",
+      "amount": "8106416",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 71,
+      "timestamp": "2022-04-08T00:56:53Z",
+      "account": "travel",
+      "amount": "-5705121",
+      "currency": "JPY",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 72,
+      "timestamp": "2022-04-08T03:53:19Z",
+      "account": "Café Müller",
+      "amount": "3791142",
+      "currency": "JPY",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 73,
+      "timestamp": "2022-04-09T16:10:43Z",
+      "account": "legal",
+      "amount": "4427.96",
+      "currency": "USD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 74,
+      "timestamp": "2022-04-10T05:37:13Z",
+      "account": "audit",
+      "amount": "4349253",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 75,
+      "timestamp": "2022-04-10T16:22:57Z",
+      "account": "travel",
+      "amount": "-7641388",
+      "currency": "JPY",
+      "memo": "Refund: order 77",
+      "status": "pending"
+    },
+    {
+      "index": 76,
+      "timestamp": "2022-04-12T02:39:35Z",
+      "account": "travel",
+      "amount": "7376808",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 77,
+      "timestamp": "2022-04-16T00:12:01Z",
+      "account": "sales",
+      "amount": "96076.25",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 78,
+      "timestamp": "2022-04-16T19:35:20Z",
+      "account": "sales",
+      "amount": "8565.45",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 79,
+      "timestamp": "2022-04-19T11:42:00Z",
+      "account": "facilities",
+      "amount": "8249671",
+      "currency": "JPY",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 80,
+      "timestamp": "2022-04-22T05:15:11Z",
+      "account": "legal",
+      "amount": "-8521449",
+      "currency": "JPY",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 81,
+      "timestamp": "2022-04-23T01:36:42Z",
+      "account": "audit",
+      "amount": "-4403.472",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 82,
+      "timestamp": "2022-04-27T05:44:14Z",
+      "account": "fx",
+      "amount": "81063.89",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 83,
+      "timestamp": "2022-04-27T15:23:21Z",
+      "account": "hr",
+      "amount": "-158.167",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 84,
+      "timestamp": "2022-04-29T19:35:27Z",
+      "account": "marketing",
+      "amount": "-4001.109",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 85,
+      "timestamp": "2022-05-04T09:29:59Z",
+      "account": "travel",
+      "amount": "-9349126",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 86,
+      "timestamp": "2022-05-04T10:19:09Z",
+      "account": "marketing",
+      "amount": "3632.545",
+      "currency": "KWD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 87,
+      "timestamp": "2022-05-05T12:26:29Z",
+      "account": "facilities",
+      "amount": "7657114",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 88,
+      "timestamp": "2022-05-07T15:51:09Z",
+      "account": "facilities",
+      "amount": "95372.32",
+      "currency": "EUR",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 89,
+      "timestamp": "2022-05-07T18:22:13Z",
+      "account": "marketing",
+      "amount": "-9670.732",
+      "currency": "KWD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 90,
+      "timestamp": "2022-05-11T11:37:08Z",
+      "account": "Café Müller",
+      "amount": "-2457786",
+      "currency": "JPY",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 91,
+      "timestamp": "2022-05-14T01:52:57Z",
+      "account": "legal",
+      "amount": "3911789",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 92,
+      "timestamp": "2022-05-16T13:05:24Z",
+      "account": "Café Müller",
+      "amount": "-1943673",
+      "currency": "JPY",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 93,
+      "timestamp": "2022-05-17T03:11:45Z",
+      "account": "facilities",
+      "amount": "37965.83",
+      "currency": "EUR",
+      "memo": "",
+      "status": "pending"
+    },
+    {
+      "index": 94,
+      "timestamp": "2022-05-20T12:30:46Z",
+      "account": "travel",
+      "amount": "7441.259",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 95,
+      "timestamp": "2022-05-21T14:46:16Z",
+      "account": "legal",
+      "amount": "-84573.69",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 96,
+      "timestamp": "2022-05-21T22:29:27Z",
+      "account": "sales",
+      "amount": "874.830",
+      "currency": "KWD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 97,
+      "timestamp": "2022-05-22T05:26:47Z",
+      "account": "facilities",
+      "amount": "-56222.12",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 98,
+      "timestamp": "2022-05-25T09:20:01Z",
+      "account": "fx",
+      "amount": "-20725.63",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 99,
+      "timestamp": "2022-05-28T17:57:00Z",
+      "account": "facilities",
+      "amount": "5955.40",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 100,
+      "timestamp": "2022-05-30T16:47:29Z",
+      "account": "legal",
+      "amount": "-7496535",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    }
+  ]
+}

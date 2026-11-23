@@ -1,0 +1,139 @@
+id,timestamp,account,currency,amount,description
+S0001,2024-05-21T07:26:04-05:00,support,USD,"2,864.94",Taxi to airport
+S0002,2024-04-23T20:02:35+01:00,rnd,USD,-230.95,Taxi to airport
+S0003,2024-07-25T07:03:10+00:00,sales,USD,"6,223.05",Hotel (2 nights) – Zürich
+S0004,2024-06-09T00:24:30+09:00,ops,JPY,"34,317",Catering — offsite
+S0005,2024-01-05T22:15:33+09:00,support,JPY,"88,167",Hotel (2 nights) – Zürich
+S0006,2024-08-21T09:35:59-05:00,rnd,JPY,"21,342",Office supplies
+  S0007 ,2024-04-13T07:54:12-05:00,  ops ,USD,"8,105.09",  Catering — offsite 
+S0008,2024-03-22T14:59:32+09:00,rnd,USD,"7,139.80",“Rush” courier fee
+S0009,2024-02-08T07:17:42+01:00,support,JPY,"10,955",Café Müller – lunch
+S0010,2024-05-06T03:12:01+05:30,support,USD,"3,554.54",Rennes – dépôt
+S0011,2024-09-27T16:29:15+00:00,rnd,USD,"2,866.70",Taxi to airport
+S0012,2024-03-08T11:33:34+00:00,sales,USD,"5,200.81",Café Müller – lunch
+S0013,2024-05-02T06:17:44+00:00,support,JPY,"42,551",Office supplies
+S0014,2024-02-16T11:03:01+01:00,support,JPY,"18,066",Client’s deposit
+S0015,2024-02-19T17:06:01+05:30,support,JPY,"61,524",Monthly retainer
+S0016,2024-01-10T14:29:15+09:00,support,USD,"4,676.09",Monthly retainer
+S0017,2024-10-19T10:23:16+05:30,rnd,JPY,"36,471",Conference – registration
+S0018,2024-06-12T23:16:32-08:00,support,JPY,"84,479",Client’s deposit
+S0019,2024-04-22T09:55:51-05:00,ops,JPY,"74,306",Office supplies
+S0020,2024-07-14T11:10:48-08:00,support,JPY,"72,497","Software license, annual"
+S0021,2024-10-15T02:40:26-08:00,ops,JPY,"63,158",Rennes – dépôt
+S0022,2024-12-06T13:19:54+00:00,rnd,USD,"5,981.50",Rennes – dépôt
+S0023,2024-02-23T14:34:18+00:00,sales,JPY,"89,713",Hotel (2 nights) – Zürich
+S0024,2024-10-06T10:35:54+01:00,ops,JPY,"-45,606",Señor Núñez invoice
+S0025,2024-09-07T12:57:37-08:00,rnd,JPY,"43,108",Catering — offsite
+S0026,2024-10-11T08:30:32-05:00,rnd,USD,"5,083.58",“Rush” courier fee
+S0027,2024-07-26T08:00:39+01:00,ops,USD,2262.95,Café Müller – lunch
+S0028,2024-07-19T06:35:50+01:00,rnd,USD,"-3,585.31",Office supplies
+S0029,2024-12-14T01:06:27-08:00,rnd,USD,"4,361.33",Catering — offsite
+S0030,2024-05-19T02:10:32+09:00,ops,USD,7608.35,Café Müller – lunch
+S0031,2024-03-09T05:17:39-05:00,support,JPY,"2,032",Client’s deposit
+S0032,2024-06-27T16:11:30-08:00,support,USD,"3,289.02",Monthly retainer
+S0033,2024-05-21T21:25:22+01:00,rnd,USD,-4114.34,Office supplies
+S0034,2024-08-25T13:09:37+09:00,sales,USD,"3,458.89",Señor Núñez invoice
+S0035,2024-07-10T21:54:27+09:00,sales,JPY,"19,275",Café Müller – lunch
+S0036,2024-06-17T09:54:38+05:30,ops,JPY,"22,418",Office supplies
+S0037,2024-04-18T22:08:30+01:00,sales,JPY,"-67,235","Software license, annual"
+S0038,2024-09-27T20:41:13-08:00,rnd,USD,"7,504.75",Taxi to airport
+S0039,2024-10-12T00:38:33+00:00,sales,JPY,"89,655",Client’s deposit
+S0040,2024-07-19T23:23:23-05:00,support,USD,"1,866.20",Client’s deposit
+  S0041 ,2024-04-25T07:31:05-08:00,  sales ,JPY,"51,478",  Café Müller – lunch 
+  S0042 ,2024-12-02T19:39:19+00:00,  sales ,USD,3593.40,  Señor Núñez invoice 
+  S0043 ,2024-07-12T11:30:45+09:00,  support ,JPY,"4,187",  Señor Núñez invoice 
+S0044,2024-03-06T06:02:30+05:30,sales,USD,-4781.60,“Rush” courier fee
+S0045,2024-05-06T02:53:46+09:00,ops,USD,6495.47,“Rush” courier fee
+S0046,2024-11-16T18:29:09+00:00,ops,USD,4418.57,Conference – registration
+S0047,2024-03-19T08:31:55-08:00,ops,JPY,"15,383",Monthly retainer
+S0048,2024-09-18T08:47:12+05:30,ops,USD," (6,602.21) ",Taxi to airport
+S0049,2024-08-21T02:11:52+09:00,support,USD,6890.65,Monthly retainer
+S0050,2024-01-24T11:01:25+09:00,sales,JPY,"-79,424",Monthly retainer
+S0051,2024-06-07T23:48:33+01:00,rnd,JPY,"75,616",Catering — offsite
+S0052,2024-08-19T13:28:36-08:00,rnd,JPY,"84,038",Conference – registration
+S0053,2024-04-22T23:25:56-05:00,rnd,JPY,"12,729",Monthly retainer
+S0054,2024-05-24T07:34:18+09:00,sales,USD,"5,779.36","Software license, annual"
+S0055,2024-05-27T11:28:40-08:00,support,JPY,"10,298",Café Müller – lunch
+S0056,2024-03-13T22:43:00+05:30,sales,JPY,"-76,518",Rennes – dépôt
+S0057,2024-08-27T04:58:14+05:30,sales,JPY,"79,368",Taxi to airport
+  S0058 ,2024-04-21T17:46:34+01:00,  sales ,USD,98.44,  Taxi to airport 
+S0059,2024-12-06T12:37:03+01:00,ops,JPY,"-74,196",Client’s deposit
+S0060,2024-04-26T15:33:16-05:00,rnd,USD,"6,476.57",Café Müller – lunch
+S0061,2024-08-22T01:01:05+00:00,rnd,JPY,"-55,532",Catering — offsite
+S0062,2024-07-06T13:20:27+09:00,rnd,USD,1819.93,Rennes – dépôt
+S0063,2024-02-27T05:15:43+05:30,rnd,JPY,"30,149",Café Müller – lunch
+S0063,2024-02-27T05:15:43+05:30,rnd,JPY,32.90,Café Müller – lunch
+S0064,2024-10-08T05:12:40-05:00,sales,JPY,"24,738",Client’s deposit
+S0065,2024-07-11T12:13:32-05:00,support,USD,"3,532.93",Taxi to airport
+S0066,2024-08-22T03:26:13+00:00,rnd,JPY,"62,418",Catering — offsite
+S0067,2024-12-07T02:48:07+01:00,ops,USD,"1,344.48",Hotel (2 nights) – Zürich
+S0068,2024-04-20T17:34:59+09:00,rnd,USD,4897.19,Taxi to airport
+S0069,2024-04-05T17:31:15+01:00,support,USD,6633.83,Señor Núñez invoice
+S0070,2024-04-22T07:07:01-08:00,sales,USD,"4,927.17",Office supplies
+S0071,2024-08-07T16:33:15+00:00,ops,USD,"8,473.41",Hotel (2 nights) – Zürich
+S0072,2024-12-07T18:52:02+05:30,rnd,JPY,"65,305",“Rush” courier fee
+S0073,2024-07-16T05:32:23+09:00,sales,JPY,"57,967",Taxi to airport
+S0074,2024-11-27T12:27:17+00:00,rnd,JPY,"35,396",Taxi to airport
+S0075,2024-10-23T04:29:16+01:00,sales,USD,"6,748.04",Café Müller – lunch
+S0076,2024-05-15T23:17:00-08:00,ops,JPY,"42,917",Conference – registration
+S0077,2024-12-07T12:30:01+01:00,support,JPY,"46,838",Señor Núñez invoice
+S0078,2024-07-25T13:40:32-08:00,rnd,USD,2205.96,Office supplies
+S0079,2024-07-19T23:48:30+01:00,rnd,USD,"7,939.88",Café Müller – lunch
+S0080,2024-07-03T20:31:12-08:00,support,USD,"4,934.72",Taxi to airport
+S0081,2024-10-23T15:54:32-08:00,support,USD,"3,959.50",Rennes – dépôt
+S0082,2024-06-02T10:27:08+09:00,rnd,JPY,"62,781",Client’s deposit
+S0083,2024-04-04T09:01:19+01:00,rnd,JPY,"-51,511",Señor Núñez invoice
+S0084,2024-06-10T12:03:29-05:00,sales,JPY,"-60,584",Rennes – dépôt
+S0085,2024-12-26T19:29:01+00:00,support,JPY,"89,286",Señor Núñez invoice
+  S0086 ,2024-07-19T15:06:17+01:00,  support ,USD," (3,693.83) ",  Client’s deposit 
+S0087,2024-11-05T05:57:55-08:00,rnd,USD,7033.74,Rennes – dépôt
+S0088,2024-10-10T23:22:30+00:00,sales,USD,"7,313.47",Catering — offsite
+S0089,2024-03-20T14:56:35+05:30,rnd,JPY,"33,051",Señor Núñez invoice
+S0090,2024-05-26T22:39:36+09:00,ops,USD,"7,711.80",Catering — offsite
+S0091,2024-08-08T22:05:26-08:00,rnd,JPY,"40,421",Café Müller – lunch
+  S0092 ,2024-01-13T18:52:11+01:00,  ops ,USD,-3415.71,  Hotel (2 nights) – Zürich 
+S0093,2024-04-11T00:18:18+05:30,rnd,JPY,"30,504",Señor Núñez invoice
+S0094,2024-06-03T15:53:19-08:00,rnd,JPY,"11,692",Rennes – dépôt
+S0095,2024-05-17T18:25:06-05:00,sales,USD,"4,334.55",Catering — offsite
+S0096,2024-11-18T17:41:05+09:00,rnd,JPY,"71,209",Rennes – dépôt
+S0097,2024-12-26T23:16:22+05:30,sales,JPY,"84,286",Hotel (2 nights) – Zürich
+  S0098 ,2024-04-22T11:34:38+00:00,  rnd ,USD,"8,593.79",  Conference – registration 
+S0099,2024-05-27T05:26:27+05:30,sales,USD,"5,803.78",Conference – registration
+S0100,2024-10-16T19:02:36+00:00,ops,JPY,"26,418",Catering — offsite
+S0101,2024-03-20T23:55:12+05:30,sales,JPY,"11,741",Client’s deposit
+S0102,2024-08-26T20:38:11+00:00,support,USD,"3,425.78",Hotel (2 nights) – Zürich
+S0103,2024-10-04T15:23:55+09:00,rnd,USD,"2,711.92","Software license, annual"
+S0051,2024-06-07T23:48:33+01:00,rnd,JPY,13.66,Catering — offsite
+S0104,2024-12-24T03:14:08-08:00,sales,JPY,"85,106",Taxi to airport
+S0105,2024-05-03T02:11:01+01:00,support,JPY,"86,174",Señor Núñez invoice
+S0106,2024-10-23T02:20:05-05:00,rnd,JPY,"42,688",Conference – registration
+S0107,2024-05-13T23:05:09+09:00,support,USD,3080.05,Client’s deposit
+S0108,2024-05-06T09:35:01+05:30,ops,USD,"4,103.70",Client’s deposit
+  S0109 ,2024-08-19T11:55:36+01:00,  sales ,USD,"1,389.57",  Conference – registration 
+S0110,2024-02-24T10:56:55+00:00,sales,JPY,"78,155",Conference – registration
+S0111,2024-07-20T09:04:02+00:00,rnd,USD,-7441.18,Hotel (2 nights) – Zürich
+S0112,2024-09-20T15:34:06-08:00,sales,USD,"3,053.94",Café Müller – lunch
+S0113,2024-06-12T20:53:35+09:00,ops,USD,168.61,Client’s deposit
+S0089,2024-03-20T14:56:35+05:30,rnd,JPY,39.15,Señor Núñez invoice
+S0114,2024-08-13T14:23:06+01:00,rnd,USD,"2,980.39",Rennes – dépôt
+S0089,2024-03-20T14:56:35+05:30,rnd,JPY,22.52,Señor Núñez invoice
+S0115,2024-02-15T02:15:12+01:00,ops,JPY,"4,471",Office supplies
+S0116,2024-12-19T00:32:19+05:30,ops,USD,"(1,698.05)",Monthly retainer
+  S0117 ,2024-09-23T03:52:59+01:00,  rnd ,JPY,"68,906","  Software license, annual "
+S0118,2024-05-04T11:53:36+09:00,support,USD,"-2,831.86",Rennes – dépôt
+S0119,2024-04-04T00:10:13-08:00,support,JPY,"32,950",Señor Núñez invoice
+S0120,2024-12-05T10:07:08+05:30,rnd,USD,"7,548.73",Conference – registration
+S0121,2024-09-06T22:43:40-08:00,rnd,JPY,"7,273",“Rush” courier fee
+S0122,2024-10-06T01:42:31+01:00,support,USD,"2,054.73",Taxi to airport
+S0123,2024-08-17T03:48:56+05:30,sales,USD,"2,825.72",Catering — offsite
+S0124,2024-04-09T13:57:54-08:00,support,USD,19.62,Rennes – dépôt
+  S0125 ,2024-12-07T09:39:07-05:00,  rnd ,USD,"8,838.33",  Catering — offsite 
+S0126,2024-11-18T00:56:05+00:00,sales,USD,658.24,Catering — offsite
+S0055,2024-05-27T11:28:40-08:00,support,JPY,9.93,Café Müller – lunch
+S0099,2024-05-27T05:26:27+05:30,sales,USD,4.39,Conference – registration
+S0127,2024-02-07T02:40:12+01:00,sales,JPY,"28,712","Software license, annual"
+S0128,2024-04-15T01:25:32+05:30,sales,JPY,"3,062",Taxi to airport
+  S0129 ,2024-03-24T12:45:10+00:00,  rnd ,USD,"(7,904.91)",  Conference – registration 
+S0130,2024-11-12T06:50:17+00:00,rnd,USD,"5,233.76",Office supplies
+S911,2024-04-28T23:14:00-08:00,ops,JPY,123.45,boundary
+S912,2024-10-01T00:42:00+06:00,ops,JPY,(67.89),boundary

@@ -1,0 +1,635 @@
+{
+  "default_currency": "USD",
+  "accounts": [
+    "rnd",
+    "IT",
+    "hr",
+    "Ünïcode Ltd",
+    "fx",
+    "travel",
+    "sales"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2022-05-18T17:05:32Z",
+      "account": "sales",
+      "amount": "18166.48",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 1,
+      "timestamp": "2022-05-18T17:05:34Z",
+      "account": "sales",
+      "amount": "-11633.54",
+      "currency": "CHF",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 2,
+      "timestamp": "2022-05-18T17:06:02Z",
+      "account": "rnd",
+      "amount": "-40210.25",
+      "currency": "CHF",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 3,
+      "timestamp": "2022-05-18T17:06:53Z",
+      "account": "IT",
+      "amount": "89238.57",
+      "currency": "SGD",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 4,
+      "timestamp": "2022-05-18T17:07:53Z",
+      "account": "IT",
+      "amount": "-190733",
+      "currency": "JPY",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 5,
+      "timestamp": "2022-05-18T17:08:18Z",
+      "account": "sales",
+      "amount": "-59773.29",
+      "currency": "USD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 6,
+      "timestamp": "2022-05-18T17:08:24Z",
+      "account": "hr",
+      "amount": "1260.44",
+      "currency": "SGD",
+      "memo": "Catering — offsite",
+      "status": "pending"
+    },
+    {
+      "index": 7,
+      "timestamp": "2022-05-18T17:08:25Z",
+      "account": "hr",
+      "amount": "58980.62",
+      "currency": "CHF",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 8,
+      "timestamp": "2022-05-18T17:08:56Z",
+      "account": "sales",
+      "amount": "1593.98",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 9,
+      "timestamp": "2022-05-18T17:09:42Z",
+      "account": "rnd",
+      "amount": "692686",
+      "currency": "JPY",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 10,
+      "timestamp": "2022-05-18T17:09:53Z",
+      "account": "sales",
+      "amount": "41454.94",
+      "currency": "SGD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 11,
+      "timestamp": "2022-05-18T17:10:23Z",
+      "account": "hr",
+      "amount": "1107086",
+      "currency": "JPY",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 12,
+      "timestamp": "2022-05-18T17:10:23Z",
+      "account": "Ünïcode Ltd",
+      "amount": "13992.09",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 13,
+      "timestamp": "2022-05-18T17:11:00Z",
+      "account": "IT",
+      "amount": "-91804.02",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 14,
+      "timestamp": "2022-05-18T17:11:49Z",
+      "account": "IT",
+      "amount": "46399.09",
+      "currency": "CHF",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 15,
+      "timestamp": "2022-05-18T17:12:27Z",
+      "account": "travel",
+      "amount": "71368.86",
+      "currency": "USD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 16,
+      "timestamp": "2022-05-18T17:12:51Z",
+      "account": "Ünïcode Ltd",
+      "amount": "36668.95",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 17,
+      "timestamp": "2022-05-18T17:13:16Z",
+      "account": "sales",
+      "amount": "-42363.22",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 18,
+      "timestamp": "2022-05-18T17:14:00Z",
+      "account": "IT",
+      "amount": "95738.76",
+      "currency": "USD",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 19,
+      "timestamp": "2022-05-18T17:14:11Z",
+      "account": "hr",
+      "amount": "-90280.01",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 20,
+      "timestamp": "2022-05-18T17:14:51Z",
+      "account": "rnd",
+      "amount": "5583448",
+      "currency": "JPY",
+      "memo": "Refund: order 77",
+      "status": "pending"
+    },
+    {
+      "index": 21,
+      "timestamp": "2022-05-18T17:15:21Z",
+      "account": "hr",
+      "amount": "3839622",
+      "currency": "JPY",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 22,
+      "timestamp": "2022-05-18T17:15:42Z",
+      "account": "rnd",
+      "amount": "-58796.90",
+      "currency": "USD",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 23,
+      "timestamp": "2022-05-18T17:16:18Z",
+      "account": "sales",
+      "amount": "-92455.64",
+      "currency": "USD",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 24,
+      "timestamp": "2022-05-18T17:16:39Z",
+      "account": "hr",
+      "amount": "13652.80",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 25,
+      "timestamp": "2022-05-18T17:17:09Z",
+      "account": "sales",
+      "amount": "64349.93",
+      "currency": "USD",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 26,
+      "timestamp": "2022-05-18T17:17:36Z",
+      "account": "rnd",
+      "amount": "-9954725",
+      "currency": "JPY",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 27,
+      "timestamp": "2022-05-18T17:18:13Z",
+      "account": "travel",
+      "amount": "9398976",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 28,
+      "timestamp": "2022-05-18T17:18:30Z",
+      "account": "hr",
+      "amount": "2122384",
+      "currency": "JPY",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 29,
+      "timestamp": "2022-05-18T17:18:45Z",
+      "account": "rnd",
+      "amount": "26136.99",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 30,
+      "timestamp": "2022-05-18T17:19:19Z",
+      "account": "Ünïcode Ltd",
+      "amount": "9031171",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 31,
+      "timestamp": "2022-05-18T17:19:57Z",
+      "account": "travel",
+      "amount": "27477.60",
+      "currency": "SGD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 32,
+      "timestamp": "2022-05-18T17:20:51Z",
+      "account": "sales",
+      "amount": "47828.25",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 33,
+      "timestamp": "2022-05-18T17:21:20Z",
+      "account": "rnd",
+      "amount": "65706.75",
+      "currency": "CHF",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 34,
+      "timestamp": "2022-05-18T17:22:12Z",
+      "account": "rnd",
+      "amount": "12882.43",
+      "currency": "SGD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 35,
+      "timestamp": "2022-05-18T17:23:11Z",
+      "account": "travel",
+      "amount": "68743.37",
+      "currency": "SGD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 36,
+      "timestamp": "2022-05-18T17:23:49Z",
+      "account": "travel",
+      "amount": "38543.80",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 37,
+      "timestamp": "2022-05-18T17:24:42Z",
+      "account": "sales",
+      "amount": "2572190",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 38,
+      "timestamp": "2022-05-18T17:24:48Z",
+      "account": "fx",
+      "amount": "29261.72",
+      "currency": "CHF",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 39,
+      "timestamp": "2022-05-18T17:25:20Z",
+      "account": "hr",
+      "amount": "14856.83",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 40,
+      "timestamp": "2022-05-18T17:25:46Z",
+      "account": "rnd",
+      "amount": "28580.12",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 41,
+      "timestamp": "2022-05-18T17:26:41Z",
+      "account": "sales",
+      "amount": "6940923",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 42,
+      "timestamp": "2022-05-18T17:26:44Z",
+      "account": "sales",
+      "amount": "15590.79",
+      "currency": "SGD",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 43,
+      "timestamp": "2022-05-18T17:27:35Z",
+      "account": "IT",
+      "amount": "74424.42",
+      "currency": "CHF",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 44,
+      "timestamp": "2022-05-18T17:28:04Z",
+      "account": "Ünïcode Ltd",
+      "amount": "-54783.57",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 45,
+      "timestamp": "2022-05-18T17:28:41Z",
+      "account": "IT",
+      "amount": "3626.80",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 46,
+      "timestamp": "2022-05-18T17:29:05Z",
+      "account": "travel",
+      "amount": "-6314317",
+      "currency": "JPY",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 47,
+      "timestamp": "2022-05-18T17:29:41Z",
+      "account": "Ünïcode Ltd",
+      "amount": "43829.14",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 48,
+      "timestamp": "2022-05-18T17:29:42Z",
+      "account": "travel",
+      "amount": "522334",
+      "currency": "JPY",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 49,
+      "timestamp": "2022-05-18T17:30:21Z",
+      "account": "sales",
+      "amount": "74054.56",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 50,
+      "timestamp": "2022-05-18T17:30:41Z",
+      "account": "Ünïcode Ltd",
+      "amount": "61333.74",
+      "currency": "CHF",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 51,
+      "timestamp": "2022-05-18T17:31:02Z",
+      "account": "travel",
+      "amount": "-9935761",
+      "currency": "JPY",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 52,
+      "timestamp": "2022-05-18T17:31:20Z",
+      "account": "fx",
+      "amount": "58991.52",
+      "currency": "CHF",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 53,
+      "timestamp": "2022-05-18T17:32:17Z",
+      "account": "hr",
+      "amount": "46740.87",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 54,
+      "timestamp": "2022-05-18T17:32:39Z",
+      "account": "IT",
+      "amount": "-7714054",
+      "currency": "JPY",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 55,
+      "timestamp": "2022-05-18T17:32:48Z",
+      "account": "hr",
+      "amount": "2531336",
+      "currency": "JPY",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 56,
+      "timestamp": "2022-05-18T17:33:45Z",
+      "account": "IT",
+      "amount": "45594.59",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 57,
+      "timestamp": "2022-05-18T17:34:38Z",
+      "account": "travel",
+      "amount": "36445.28",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 58,
+      "timestamp": "2022-05-18T17:34:58Z",
+      "account": "IT",
+      "amount": "74164.29",
+      "currency": "USD",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 59,
+      "timestamp": "2022-05-18T17:35:15Z",
+      "account": "Ünïcode Ltd",
+      "amount": "-85204.21",
+      "currency": "USD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 60,
+      "timestamp": "2022-05-18T17:35:18Z",
+      "account": "fx",
+      "amount": "74395.25",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 61,
+      "timestamp": "2022-05-18T17:35:59Z",
+      "account": "sales",
+      "amount": "60779.37",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 62,
+      "timestamp": "2022-05-18T17:36:22Z",
+      "account": "fx",
+      "amount": "48256.23",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 63,
+      "timestamp": "2022-05-18T17:37:07Z",
+      "account": "Ünïcode Ltd",
+      "amount": "38117.03",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 64,
+      "timestamp": "2022-05-18T17:38:05Z",
+      "account": "fx",
+      "amount": "90016.24",
+      "currency": "SGD",
+      "memo": "Invoice #4021, net 30",
+      "status": "pending"
+    },
+    {
+      "index": 65,
+      "timestamp": "2022-05-18T17:38:56Z",
+      "account": "hr",
+      "amount": "84033.96",
+      "currency": "SGD",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 66,
+      "timestamp": "2022-05-18T17:39:12Z",
+      "account": "sales",
+      "amount": "84577.40",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 67,
+      "timestamp": "2022-05-18T17:40:08Z",
+      "account": "hr",
+      "amount": "8085.91",
+      "currency": "USD",
+      "memo": "Taxi to airport",
+      "status": "pending"
+    },
+    {
+      "index": 68,
+      "timestamp": "2022-05-18T17:40:56Z",
+      "account": "fx",
+      "amount": "33042.22",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "default_currency": "USD",
+  "accounts": [
+    "ops",
+    "payroll"
+  ],
+  "records": []
+}

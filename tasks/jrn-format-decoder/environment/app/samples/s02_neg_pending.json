@@ -1,0 +1,137 @@
+{
+  "default_currency": "USD",
+  "accounts": [
+    "ops",
+    "payroll",
+    "travel",
+    "marketing"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2024-05-20T05:20:52Z",
+      "account": "payroll",
+      "amount": "-4323.23",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 1,
+      "timestamp": "2024-05-20T05:25:58Z",
+      "account": "travel",
+      "amount": "4457.71",
+      "currency": "USD",
+      "memo": "Taxi to airport",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "timestamp": "2024-05-20T05:31:50Z",
+      "account": "ops",
+      "amount": "-3470.42",
+      "currency": "USD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 3,
+      "timestamp": "2024-05-20T05:40:17Z",
+      "account": "payroll",
+      "amount": "1937.60",
+      "currency": "USD",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 4,
+      "timestamp": "2024-05-20T05:41:38Z",
+      "account": "ops",
+      "amount": "3756.44",
+      "currency": "USD",
+      "memo": "Taxi to airport",
+      "status": "pending"
+    },
+    {
+      "index": 5,
+      "timestamp": "2024-05-20T05:42:20Z",
+      "account": "payroll",
+      "amount": "1089.30",
+      "currency": "USD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 6,
+      "timestamp": "2024-05-20T05:50:06Z",
+      "account": "ops",
+      "amount": "2648.98",
+      "currency": "USD",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 7,
+      "timestamp": "2024-05-20T05:54:42Z",
+      "account": "marketing",
+      "amount": "2206.87",
+      "currency": "USD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 8,
+      "timestamp": "2024-05-20T05:59:06Z",
+      "account": "ops",
+      "amount": "2414.12",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 9,
+      "timestamp": "2024-05-20T06:05:57Z",
+      "account": "ops",
+      "amount": "-143.99",
+      "currency": "USD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 10,
+      "timestamp": "2024-05-20T06:14:00Z",
+      "account": "travel",
+      "amount": "657.76",
+      "currency": "USD",
+      "memo": "Taxi to airport",
+      "status": "pending"
+    },
+    {
+      "index": 11,
+      "timestamp": "2024-05-20T06:18:49Z",
+      "account": "payroll",
+      "amount": "-1894.49",
+      "currency": "USD",
+      "memo": "Refund: order 77",
+      "status": "pending"
+    },
+    {
+      "index": 12,
+      "timestamp": "2024-05-20T06:24:52Z",
+      "account": "marketing",
+      "amount": "1738.09",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 13,
+      "timestamp": "2024-05-20T06:32:53Z",
+      "account": "ops",
+      "amount": "-4602.24",
+      "currency": "USD",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    }
+  ]
+}

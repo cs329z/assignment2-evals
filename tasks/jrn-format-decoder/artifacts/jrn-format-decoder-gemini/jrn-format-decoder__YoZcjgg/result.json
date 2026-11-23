@@ -1,0 +1,116 @@
+{
+    "id": "cbade7e0-001b-4bf2-a7f7-daf3f12297f9",
+    "task_name": "cs329z/jrn-format-decoder",
+    "trial_name": "jrn-format-decoder__YoZcjgg",
+    "trial_uri": "file:///Users/amruthapappu/assignment2-evals/tasks/jrn-format-decoder/artifacts/jrn-format-decoder-gemini/jrn-format-decoder__YoZcjgg",
+    "task_id": {
+        "path": "tasks/jrn-format-decoder"
+    },
+    "source": null,
+    "task_checksum": "3f5cf215c7d633939bed0f16e2cc1db8c909a63b9e3e61f0946e47dfbf5f0e4a",
+    "config": {
+        "task": {
+            "path": "tasks/jrn-format-decoder",
+            "git_url": null,
+            "git_commit_id": null,
+            "name": null,
+            "ref": null,
+            "overwrite": false,
+            "download_dir": null,
+            "source": null
+        },
+        "trial_name": "jrn-format-decoder__YoZcjgg",
+        "trials_dir": "tasks/jrn-format-decoder/artifacts/jrn-format-decoder-gemini",
+        "install_only": false,
+        "timeout_multiplier": 1.0,
+        "agent_timeout_multiplier": null,
+        "verifier_timeout_multiplier": null,
+        "agent_setup_timeout_multiplier": null,
+        "environment_build_timeout_multiplier": null,
+        "agent": {
+            "name": null,
+            "import_path": "pinned_agent:MiniSweAgent",
+            "model_name": "openrouter/google/gemini-3.8-flash",
+            "n_concurrent": null,
+            "concurrency_group": null,
+            "skills": [],
+            "override_timeout_sec": null,
+            "override_setup_timeout_sec": null,
+            "max_timeout_sec": null,
+            "extra_allowed_hosts": [],
+            "kwargs": {},
+            "mcp_servers": []
+        },
+        "environment": {
+            "type": "docker",
+            "import_path": null,
+            "force_build": false,
+            "delete": true,
+            "cpu_enforcement_policy": "auto",
+            "memory_enforcement_policy": "auto",
+            "override_cpus": null,
+            "override_memory_mb": null,
+            "override_storage_mb": null,
+            "override_gpus": null,
+            "override_tpu": null,
+            "mounts": null,
+            "extra_docker_compose": [],
+            "kwargs": {},
+            "extra_allowed_hosts": []
+        },
+        "verifier": {
+            "override_timeout_sec": null,
+            "max_timeout_sec": null,
+            "disable": false
+        },
+        "artifacts": [],
+        "extra_instruction_paths": [],
+        "job_id": "c9773afa-1c65-42ca-81e9-085570f5e674"
+    },
+    "agent_info": {
+        "name": "mini-swe-agent",
+        "version": "2.4.6",
+        "model_info": {
+            "name": "google/gemini-3.8-flash",
+            "provider": "openrouter"
+        }
+    },
+    "agent_result": {
+        "n_input_tokens": 1199510,
+        "n_cache_tokens": 941248,
+        "n_output_tokens": 18581,
+        "cost_usd": 0.0,
+        "rollout_details": null,
+        "metadata": null
+    },
+    "verifier_result": {
+        "rewards": {
+            "reward": 0.0
+        }
+    },
+    "exception_info": {
+        "exception_type": "AgentTimeoutError",
+        "exception_message": "Agent execution timed out after 900.0 seconds",
+        "exception_traceback": "Traceback (most recent call last):\n  File \"/Users/amruthapappu/.local/share/uv/python/cpython-3.12.16-macos-aarch64-none/lib/python3.12/asyncio/tasks.py\", line 520, in wait_for\n    return await fut\n           ^^^^^^^^^\n  File \"/Users/amruthapappu/assignment2-evals/.venv/lib/python3.12/site-packages/harbor/agents/installed/base.py\", line 105, in wrapper\n    return await fn(self, instruction, *args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/amruthapappu/assignment2-evals/.venv/lib/python3.12/site-packages/harbor/agents/installed/mini_swe_agent.py\", line 730, in run\n    await self.exec_as_agent(\n  File \"/Users/amruthapappu/assignment2-evals/.venv/lib/python3.12/site-packages/harbor/agents/installed/base.py\", line 477, in exec_as_agent\n    return await self._exec(\n           ^^^^^^^^^^^^^^^^^\n  File \"/Users/amruthapappu/assignment2-evals/.venv/lib/python3.12/site-packages/harbor/agents/installed/base.py\", line 428, in _exec\n    result = await environment.exec(\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/amruthapappu/assignment2-evals/.venv/lib/python3.12/site-packages/harbor/environments/docker/docker.py\", line 1069, in exec\n    return await self._compose_exec(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/amruthapappu/assignment2-evals/.venv/lib/python3.12/site-packages/harbor/environments/docker/docker.py\", line 1146, in _compose_exec\n    return await self._run_docker_compose_command(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/amruthapappu/assignment2-evals/.venv/lib/python3.12/site-packages/harbor/environments/docker/docker.py\", line 624, in _run_docker_compose_command\n    result = await self._collect_buffered_output(\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/amruthapappu/assignment2-evals/.venv/lib/python3.12/site-packages/harbor/environments/docker/docker.py\", line 654, in _collect_buffered_output\n    stdout_bytes, stderr_bytes = await process.communicate(input=stdin_data)\n                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/amruthapappu/.local/share/uv/python/cpython-3.12.16-macos-aarch64-none/lib/python3.12/asyncio/subprocess.py\", line 201, in communicate\n    stdin, stdout, stderr = await tasks.gather(stdin, stdout, stderr)\n                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/amruthapappu/.local/share/uv/python/cpython-3.12.16-macos-aarch64-none/lib/python3.12/asyncio/subprocess.py\", line 181, in _read_stream\n    output = await stream.read()\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/Users/amruthapappu/.local/share/uv/python/cpython-3.12.16-macos-aarch64-none/lib/python3.12/asyncio/streams.py\", line 706, in read\n    block = await self.read(self._limit)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/amruthapappu/.local/share/uv/python/cpython-3.12.16-macos-aarch64-none/lib/python3.12/asyncio/streams.py\", line 713, in read\n    await self._wait_for_data('read')\n  File \"/Users/amruthapappu/.local/share/uv/python/cpython-3.12.16-macos-aarch64-none/lib/python3.12/asyncio/streams.py\", line 545, in _wait_for_data\n    await self._waiter\nasyncio.exceptions.CancelledError\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/Users/amruthapappu/assignment2-evals/.venv/lib/python3.12/site-packages/harbor/trial/trial.py\", line 442, in _run_agent_phase\n    await asyncio.wait_for(\n  File \"/Users/amruthapappu/.local/share/uv/python/cpython-3.12.16-macos-aarch64-none/lib/python3.12/asyncio/tasks.py\", line 519, in wait_for\n    async with timeouts.timeout(timeout):\n               ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/amruthapappu/.local/share/uv/python/cpython-3.12.16-macos-aarch64-none/lib/python3.12/asyncio/timeouts.py\", line 115, in __aexit__\n    raise TimeoutError from exc_val\nTimeoutError\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/Users/amruthapappu/assignment2-evals/.venv/lib/python3.12/site-packages/harbor/trial/single_step.py\", line 77, in _run_agent\n    await self._run_agent_phase(\n  File \"/Users/amruthapappu/assignment2-evals/.venv/lib/python3.12/site-packages/harbor/trial/trial.py\", line 451, in _run_agent_phase\n    raise AgentTimeoutError(\nharbor.trial.errors.AgentTimeoutError: Agent execution timed out after 900.0 seconds\n",
+        "occurred_at": "2026-11-23T12:12:44.864515"
+    },
+    "started_at": "2026-11-23T03:56:38.880326Z",
+    "finished_at": "2026-11-23T04:12:52.717869Z",
+    "environment_setup": {
+        "started_at": "2026-11-23T03:56:39.312786Z",
+        "finished_at": "2026-11-23T03:56:44.057753Z"
+    },
+    "agent_setup": {
+        "started_at": "2026-11-23T03:56:44.057837Z",
+        "finished_at": "2026-11-23T03:57:44.817010Z"
+    },
+    "agent_execution": {
+        "started_at": "2026-11-23T03:57:44.817357Z",
+        "finished_at": "2026-11-23T04:12:44.860738Z"
+    },
+    "verifier": {
+        "started_at": "2026-11-23T04:12:46.059124Z",
+        "finished_at": "2026-11-23T04:12:46.401725Z"
+    },
+    "step_results": null
+}

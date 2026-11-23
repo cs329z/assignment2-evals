@@ -1,0 +1,139 @@
+id,timestamp,account,currency,amount,description
+P0001,2024-05-13T00:41:58-08:00,legal,EUR,"4,584.82",Rennes – dépôt
+P0002,2024-12-03T03:58:17+09:00,legal,USD,"6,462.84",Conference – registration
+P0003,2024-07-13T20:46:07+05:30,ops,GBP,"7,223.21",Hotel (2 nights) – Zürich
+P0004,2024-08-20T21:32:10-05:00,support,USD,2861.53,"Software license, annual"
+P0005,2024-02-06T14:18:41+00:00,support,EUR,"2,892.76",Rennes – dépôt
+P0006,2024-12-15T15:10:13+05:30,legal,USD,"5,559.51",Rennes – dépôt
+P0007,2024-05-06T05:24:56+09:00,support,EUR,"7,227.90",“Rush” courier fee
+P0008,2024-08-10T06:55:35-05:00,ops,GBP,"5,619.63","Software license, annual"
+P0009,2024-04-02T22:41:53+05:30,ops,EUR,"1,804.46",Rennes – dépôt
+P0010,2024-11-15T21:10:03+09:00,legal,USD,"5,984.75",Café Müller – lunch
+P0011,2024-04-05T03:30:39-05:00,legal,GBP,700.90,Conference – registration
+P0012,2024-02-16T08:43:08+09:00,support,USD," (2,778.61) ",“Rush” courier fee
+  P0013 ,2024-11-07T02:36:12+01:00,  legal ,EUR,301.59,  Señor Núñez invoice 
+P0014,2024-06-13T07:13:47+00:00,legal,GBP,"1,502.33",Rennes – dépôt
+P0015,2024-03-02T11:35:58+09:00,legal,USD,"4,028.19",Office supplies
+P0016,2024-01-22T06:15:51+01:00,support,GBP,"1,380.07","Software license, annual"
+P0017,2024-12-17T18:36:02-08:00,support,GBP,"7,252.24",Conference – registration
+  P0018 ,2024-06-07T13:47:18-05:00,  legal ,EUR,"5,789.66",  Hotel (2 nights) – Zürich 
+P0019,2024-09-06T17:13:13+05:30,ops,EUR,6532.14,Office supplies
+P0020,2024-12-17T18:53:40+01:00,ops,USD,"6,160.55","Software license, annual"
+P0021,2024-09-14T19:52:11+00:00,legal,EUR,5337.82,Catering — offsite
+P0022,2024-03-05T01:46:56+00:00,support,EUR,"3,834.80",Rennes – dépôt
+P0023,2024-04-26T01:10:27-05:00,legal,USD,"2,716.15",Client’s deposit
+P0024,2024-10-12T10:12:18+05:30,ops,EUR,"1,903.34","Software license, annual"
+P0025,2024-02-20T19:29:08+09:00,support,EUR," (7,458.87) ",Client’s deposit
+P0026,2024-09-17T03:13:09-08:00,support,USD,"7,466.70",Hotel (2 nights) – Zürich
+P0027,2024-10-13T04:40:18+09:00,support,USD,"1,306.44",Rennes – dépôt
+P0028,2024-08-20T06:41:22+09:00,legal,EUR,3130.93,Señor Núñez invoice
+P0029,2024-04-04T15:12:49-05:00,ops,EUR,"2,726.31",Taxi to airport
+P0030,2024-03-14T16:43:33+00:00,legal,EUR,"1,945.45",Señor Núñez invoice
+P0031,2024-08-21T04:00:59+00:00,ops,GBP,"6,800.15",Rennes – dépôt
+P0032,2024-12-10T18:00:42+00:00,ops,GBP,725.58,“Rush” courier fee
+P0033,2024-12-03T22:01:05-05:00,legal,EUR,"8,795.18",Office supplies
+P0034,2024-06-09T03:33:20+05:30,ops,GBP,"4,168.51",Conference – registration
+P0035,2024-04-14T08:01:08+01:00,support,USD,"1,052.70",Client’s deposit
+P0036,2024-04-10T18:09:31-05:00,legal,EUR,7286.14,Señor Núñez invoice
+P0037,2024-07-11T10:10:56-08:00,legal,USD,4263.78,Café Müller – lunch
+P0038,2024-07-09T18:52:32-05:00,legal,EUR,6545.95,Conference – registration
+P0039,2024-09-13T07:38:31-05:00,support,EUR,7032.20,Client’s deposit
+P0040,2024-03-11T20:29:56-05:00,legal,USD,8400.39,"Software license, annual"
+P0041,2024-11-17T13:18:33+01:00,ops,GBP,"8,500.95",Catering — offsite
+P0042,2024-08-11T20:26:48-05:00,support,GBP,-4767.93,Office supplies
+P0043,2024-01-04T20:55:20-08:00,legal,EUR,"1,094.57",Client’s deposit
+P0044,2024-11-06T11:28:34+09:00,ops,GBP,"4,128.87",Señor Núñez invoice
+P0045,2024-07-21T13:29:12+01:00,legal,EUR,"6,556.34",Taxi to airport
+P0046,2024-03-04T12:31:45+09:00,support,EUR,31.07,Monthly retainer
+P0047,2024-12-07T02:40:00-08:00,ops,EUR,7568.28,Hotel (2 nights) – Zürich
+  P0048 ,2024-03-03T01:16:26+00:00,  support ,GBP,219.15,  “Rush” courier fee 
+P0049,2024-04-21T15:44:37+00:00,ops,GBP,"(2,083.43)",Rennes – dépôt
+P0050,2024-09-10T17:29:23+01:00,ops,EUR,"3,766.77",Office supplies
+P0051,2024-03-13T17:50:07-05:00,ops,EUR,"4,700.57",Monthly retainer
+P0052,2024-09-18T05:40:49+00:00,support,EUR,"4,175.08","Software license, annual"
+P0053,2024-04-06T05:11:33-08:00,legal,EUR,"6,625.47",Conference – registration
+P0054,2024-04-17T07:20:53+05:30,ops,USD," (2,211.61) ",“Rush” courier fee
+  P0055 ,2024-05-19T12:22:06+00:00,  legal ,USD,"3,996.63","  Software license, annual "
+P0056,2024-08-11T04:32:54-05:00,support,EUR,-7463.89,Rennes – dépôt
+P0057,2024-01-08T18:08:03+00:00,ops,EUR,"8,861.34",Conference – registration
+P0058,2024-07-26T16:14:16+01:00,ops,GBP,"4,513.03",Señor Núñez invoice
+P0059,2024-05-27T17:53:37+05:30,legal,EUR,"(5,251.68)",Hotel (2 nights) – Zürich
+P0060,2024-01-27T19:47:16+00:00,ops,EUR,"3,061.47",Conference – registration
+P0061,2024-07-10T22:03:06+09:00,support,GBP,358.24,Hotel (2 nights) – Zürich
+  P0062 ,2024-10-25T18:27:58+09:00,  ops ,EUR,"4,245.78",  Señor Núñez invoice 
+P0063,2024-08-15T07:56:01-05:00,support,GBP,87.27,Café Müller – lunch
+P0064,2024-08-23T21:29:49+05:30,ops,EUR,"6,924.94",Office supplies
+P0065,2024-07-05T20:09:47+05:30,support,EUR,"4,711.59",Hotel (2 nights) – Zürich
+  P0066 ,2024-05-24T16:04:05+09:00,  support ,GBP,6745.42,  Café Müller – lunch 
+P0067,2024-12-14T06:34:20+01:00,ops,USD,"4,916.85",Taxi to airport
+P0068,2024-10-16T10:04:28+09:00,legal,GBP,"-5,827.13",Hotel (2 nights) – Zürich
+P0069,2024-06-13T06:09:09-05:00,legal,GBP,"3,693.27",“Rush” courier fee
+P0070,2024-04-18T04:36:06+05:30,legal,GBP,"(6,116.72)",“Rush” courier fee
+P0071,2024-05-24T23:20:00-05:00,ops,USD,"4,844.34",Conference – registration
+P0072,2024-04-11T04:36:23-08:00,support,EUR,2577.82,Hotel (2 nights) – Zürich
+P0073,2024-06-20T19:31:15+00:00,ops,GBP,"(6,753.56)",Catering — offsite
+P0074,2024-07-13T15:25:28+05:30,support,GBP,"4,434.41",Monthly retainer
+P0075,2024-01-06T03:32:36-05:00,support,EUR,"(5,533.30)",“Rush” courier fee
+P0076,2024-11-21T14:05:03-05:00,legal,USD,3603.15,Café Müller – lunch
+P0077,2024-03-10T10:37:50-05:00,legal,EUR,4434.07,Client’s deposit
+P0078,2024-07-11T19:54:27+00:00,support,USD,"2,204.12",Conference – registration
+P0079,2024-09-12T19:14:34-05:00,legal,GBP,"6,372.00",Café Müller – lunch
+P0080,2024-04-08T07:08:19+09:00,ops,EUR,643.71,Client’s deposit
+P0078,2024-07-11T19:54:27+00:00,support,USD,38.30,Conference – registration
+P0081,2024-01-09T08:38:40+01:00,legal,GBP," (4,683.07) ","Software license, annual"
+P0082,2024-11-14T09:24:52+01:00,support,GBP,4826.68,Taxi to airport
+  P0083 ,2024-03-13T04:02:23+01:00,  legal ,USD,"3,495.71",  Conference – registration 
+P0084,2024-10-16T01:08:13+00:00,legal,USD,987.33,Café Müller – lunch
+P0085,2024-08-10T12:12:39+05:30,ops,GBP,-5928.27,Café Müller – lunch
+P0086,2024-08-14T00:37:19+01:00,legal,EUR,"3,885.55",Taxi to airport
+  P0048 ,2024-03-03T01:16:26+00:00,  support ,GBP,3.38,  “Rush” courier fee 
+P0087,2024-01-23T15:04:17-05:00,ops,USD,6677.55,Hotel (2 nights) – Zürich
+P0088,2024-01-22T23:47:41+01:00,ops,USD,"-1,918.23",Señor Núñez invoice
+P0089,2024-05-02T12:56:16-05:00,support,USD," (8,187.33) ",Hotel (2 nights) – Zürich
+P0090,2024-03-11T02:19:11+01:00,legal,USD,"6,969.42",Catering — offsite
+P0091,2024-12-06T13:18:11-05:00,legal,GBP,"3,635.05",Catering — offsite
+P0092,2024-02-20T12:03:55+00:00,legal,USD,302.33,Hotel (2 nights) – Zürich
+P0093,2024-08-13T07:38:16+01:00,support,EUR,2551.09,Café Müller – lunch
+P0094,2024-08-25T20:03:51+05:30,support,EUR,33.81,Señor Núñez invoice
+P0095,2024-11-14T18:22:26+09:00,support,GBP,"6,575.52","Software license, annual"
+P0028,2024-08-20T06:41:22+09:00,legal,EUR,4.10,Señor Núñez invoice
+P0096,2024-08-09T16:33:02-08:00,ops,GBP,6422.61,Conference – registration
+P0097,2024-12-15T09:07:40+00:00,support,USD,8208.04,Hotel (2 nights) – Zürich
+P0098,2024-11-02T19:22:54-05:00,ops,GBP,"6,816.44",Client’s deposit
+P0099,2024-06-24T23:54:08-08:00,legal,GBP,"1,649.50",Hotel (2 nights) – Zürich
+P0100,2024-03-16T04:31:24+01:00,support,EUR,"6,653.68",Rennes – dépôt
+P0101,2024-01-27T20:27:35+05:30,support,GBP,"8,365.14",Señor Núñez invoice
+  P0102 ,2024-11-16T16:53:11+05:30,  ops ,GBP,-2315.80,  Café Müller – lunch 
+P0103,2024-07-09T08:24:58+05:30,legal,EUR,"5,328.26",Office supplies
+P0104,2024-10-06T04:52:44-05:00,legal,EUR,"5,905.48","Software license, annual"
+P0105,2024-01-21T09:38:09-08:00,legal,GBP,"3,845.89","Software license, annual"
+P0106,2024-06-11T16:15:07-05:00,ops,EUR,489.01,Client’s deposit
+P0107,2024-11-08T00:10:09+05:30,ops,GBP,"7,235.58",“Rush” courier fee
+  P0108 ,2024-08-24T09:25:42-05:00,  support ,USD,"2,520.51",  Café Müller – lunch 
+P0109,2024-01-13T02:44:01+01:00,legal,GBP,"2,674.06",Taxi to airport
+  P0102 ,2024-11-16T16:53:11+05:30,  ops ,GBP,25.56,  Café Müller – lunch 
+P0110,2024-09-02T12:11:22+01:00,legal,USD,909.07,Rennes – dépôt
+P0107,2024-11-08T00:10:09+05:30,ops,GBP,43.40,“Rush” courier fee
+  P0111 ,2024-12-27T01:48:51+05:30,  legal ,GBP,"3,214.56","  Software license, annual "
+P0112,2024-08-07T09:11:28-05:00,ops,GBP,296.94,Office supplies
+P0113,2024-03-20T01:07:12+05:30,support,EUR,3575.06,Monthly retainer
+P0114,2024-12-07T07:59:41+01:00,support,EUR,"8,645.05",“Rush” courier fee
+P0115,2024-11-21T07:15:44+01:00,legal,USD,"-5,438.02",Catering — offsite
+P0116,2024-04-26T02:48:37+05:30,support,GBP,"(8,685.96)",“Rush” courier fee
+P0117,2024-12-17T13:56:13+05:30,ops,EUR,6070.48,Café Müller – lunch
+P0118,2024-01-04T17:13:02+05:30,support,GBP," (8,043.17) ",Rennes – dépôt
+P0119,2024-06-03T16:26:14-05:00,support,USD,7326.62,Client’s deposit
+P0120,2024-11-26T19:32:30-08:00,legal,EUR,92.17,Señor Núñez invoice
+P0121,2024-11-20T09:29:03+05:30,ops,EUR,"2,960.64",“Rush” courier fee
+P0122,2024-05-04T18:42:50+09:00,support,USD,"2,360.33",Señor Núñez invoice
+P0123,2024-01-18T03:22:08+00:00,legal,GBP,5173.19,Señor Núñez invoice
+P0124,2024-03-17T03:29:30-05:00,legal,GBP,2518.53,Hotel (2 nights) – Zürich
+P0125,2024-10-18T04:50:58+00:00,legal,GBP,8765.65,Café Müller – lunch
+P0126,2024-01-17T06:07:45+05:30,ops,USD,"8,230.53",Señor Núñez invoice
+P0127,2024-02-23T22:09:06+00:00,ops,GBP,"3,891.20",Rennes – dépôt
+  P0128 ,2024-09-27T14:04:35+05:30,  legal ,EUR,"2,208.44","  Software license, annual "
+P0096,2024-08-09T16:33:02-08:00,ops,GBP,37.59,Conference – registration
+P0129,2024-04-25T07:44:27-08:00,support,USD," (3,631.21) ",“Rush” courier fee
+P0130,2024-08-19T20:13:13-08:00,legal,USD,569.48,Taxi to airport
+P921,2024-05-28T23:43:00-08:00,ops,EUR,123.45,boundary
+P922,2024-08-01T00:29:00+07:00,ops,EUR,(67.89),boundary
