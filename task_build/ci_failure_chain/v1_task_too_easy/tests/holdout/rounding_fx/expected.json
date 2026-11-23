@@ -1,0 +1,29 @@
+{
+  "base_currency": "USD",
+  "transactions": 11,
+  "duplicates_dropped": 0,
+  "accounts": {
+    "ops": {
+      "months": {
+        "2024-05": 118978
+      },
+      "total_cents": 118978,
+      "largest": {
+        "id": "R9",
+        "amount_cents": 108500,
+        "description": "round number"
+      }
+    },
+    "refunds": {
+      "months": {
+        "2024-05": -177807
+      },
+      "total_cents": -177807,
+      "largest": {
+        "id": "R11",
+        "amount_cents": -169333,
+        "description": "refund"
+      }
+    }
+  }
+}

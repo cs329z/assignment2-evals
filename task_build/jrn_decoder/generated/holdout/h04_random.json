@@ -1,0 +1,594 @@
+{
+  "default_currency": "JPY",
+  "accounts": [
+    "Ünïcode Ltd",
+    "fx",
+    "ops",
+    "audit",
+    "marketing",
+    "treasury",
+    "travel",
+    "facilities",
+    "rnd",
+    "support",
+    "Café Müller"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2025-01-27T16:04:25Z",
+      "account": "ops",
+      "amount": "19482.32",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 1,
+      "timestamp": "2025-01-27T16:27:02Z",
+      "account": "Ünïcode Ltd",
+      "amount": "35221.83",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "timestamp": "2025-01-27T17:21:57Z",
+      "account": "facilities",
+      "amount": "28971.34",
+      "currency": "USD",
+      "memo": "Refund: order 77",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "timestamp": "2025-01-27T17:53:14Z",
+      "account": "facilities",
+      "amount": "47483.40",
+      "currency": "EUR",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "timestamp": "2025-01-27T18:29:18Z",
+      "account": "facilities",
+      "amount": "33460.58",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 5,
+      "timestamp": "2025-01-27T19:08:00Z",
+      "account": "rnd",
+      "amount": "-32528.23",
+      "currency": "SGD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 6,
+      "timestamp": "2025-01-27T20:10:24Z",
+      "account": "Café Müller",
+      "amount": "34605.56",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 7,
+      "timestamp": "2025-01-27T20:32:46Z",
+      "account": "Café Müller",
+      "amount": "93247.83",
+      "currency": "SGD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 8,
+      "timestamp": "2025-01-27T20:38:14Z",
+      "account": "Café Müller",
+      "amount": "7404.05",
+      "currency": "GBP",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 9,
+      "timestamp": "2025-01-27T21:16:20Z",
+      "account": "facilities",
+      "amount": "15364.78",
+      "currency": "GBP",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 10,
+      "timestamp": "2025-01-27T21:56:18Z",
+      "account": "facilities",
+      "amount": "39781.16",
+      "currency": "SGD",
+      "memo": "Café Müller – lunch",
+      "status": "pending"
+    },
+    {
+      "index": 11,
+      "timestamp": "2025-01-27T22:05:27Z",
+      "account": "facilities",
+      "amount": "24396.21",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 12,
+      "timestamp": "2025-01-27T22:11:10Z",
+      "account": "Ünïcode Ltd",
+      "amount": "78833.12",
+      "currency": "SGD",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 13,
+      "timestamp": "2025-01-27T23:08:45Z",
+      "account": "facilities",
+      "amount": "17844.50",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 14,
+      "timestamp": "2025-01-27T23:36:15Z",
+      "account": "audit",
+      "amount": "74893.32",
+      "currency": "GBP",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 15,
+      "timestamp": "2025-01-27T23:46:25Z",
+      "account": "support",
+      "amount": "-29223.14",
+      "currency": "EUR",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 16,
+      "timestamp": "2025-01-28T00:14:42Z",
+      "account": "rnd",
+      "amount": "96313.21",
+      "currency": "EUR",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 17,
+      "timestamp": "2025-01-28T01:15:48Z",
+      "account": "treasury",
+      "amount": "-44953.33",
+      "currency": "GBP",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 18,
+      "timestamp": "2025-01-28T02:12:41Z",
+      "account": "facilities",
+      "amount": "11376.01",
+      "currency": "GBP",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 19,
+      "timestamp": "2025-01-28T03:00:52Z",
+      "account": "marketing",
+      "amount": "29717.38",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 20,
+      "timestamp": "2025-01-28T03:48:35Z",
+      "account": "travel",
+      "amount": "-39689.88",
+      "currency": "SGD",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 21,
+      "timestamp": "2025-01-28T03:56:53Z",
+      "account": "facilities",
+      "amount": "-31742.99",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 22,
+      "timestamp": "2025-01-28T04:58:26Z",
+      "account": "audit",
+      "amount": "70008.87",
+      "currency": "SGD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 23,
+      "timestamp": "2025-01-28T05:38:09Z",
+      "account": "facilities",
+      "amount": "91023.38",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 24,
+      "timestamp": "2025-01-28T05:58:31Z",
+      "account": "marketing",
+      "amount": "19227.85",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 25,
+      "timestamp": "2025-01-28T06:08:51Z",
+      "account": "Café Müller",
+      "amount": "61871.37",
+      "currency": "SGD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 26,
+      "timestamp": "2025-01-28T06:23:31Z",
+      "account": "marketing",
+      "amount": "68175.27",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 27,
+      "timestamp": "2025-01-28T06:55:10Z",
+      "account": "treasury",
+      "amount": "5815.05",
+      "currency": "SGD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 28,
+      "timestamp": "2025-01-28T07:35:13Z",
+      "account": "treasury",
+      "amount": "48990.13",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 29,
+      "timestamp": "2025-01-28T08:48:54Z",
+      "account": "audit",
+      "amount": "-26537.58",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 30,
+      "timestamp": "2025-01-28T09:18:54Z",
+      "account": "rnd",
+      "amount": "-92280.66",
+      "currency": "USD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 31,
+      "timestamp": "2025-01-28T10:31:02Z",
+      "account": "Ünïcode Ltd",
+      "amount": "83676.41",
+      "currency": "USD",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 32,
+      "timestamp": "2025-01-28T11:20:38Z",
+      "account": "facilities",
+      "amount": "25716.63",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 33,
+      "timestamp": "2025-01-28T11:44:31Z",
+      "account": "treasury",
+      "amount": "-77485.81",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 34,
+      "timestamp": "2025-01-28T12:50:15Z",
+      "account": "treasury",
+      "amount": "7853.78",
+      "currency": "GBP",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 35,
+      "timestamp": "2025-01-28T14:07:42Z",
+      "account": "Ünïcode Ltd",
+      "amount": "68343.55",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 36,
+      "timestamp": "2025-01-28T15:24:19Z",
+      "account": "ops",
+      "amount": "83643.03",
+      "currency": "GBP",
+      "memo": "Zürich 🏨 hotel",
+      "status": "pending"
+    },
+    {
+      "index": 37,
+      "timestamp": "2025-01-28T15:29:35Z",
+      "account": "facilities",
+      "amount": "17753.26",
+      "currency": "USD",
+      "memo": "Monthly retainer",
+      "status": "pending"
+    },
+    {
+      "index": 38,
+      "timestamp": "2025-01-28T15:56:57Z",
+      "account": "rnd",
+      "amount": "76048.81",
+      "currency": "SGD",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 39,
+      "timestamp": "2025-01-28T17:00:43Z",
+      "account": "marketing",
+      "amount": "22271.43",
+      "currency": "USD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 40,
+      "timestamp": "2025-01-28T18:08:46Z",
+      "account": "facilities",
+      "amount": "92663.96",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 41,
+      "timestamp": "2025-01-28T18:51:31Z",
+      "account": "ops",
+      "amount": "774.42",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 42,
+      "timestamp": "2025-01-28T19:56:42Z",
+      "account": "ops",
+      "amount": "32052.33",
+      "currency": "EUR",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 43,
+      "timestamp": "2025-01-28T21:04:50Z",
+      "account": "Café Müller",
+      "amount": "-48197.08",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 44,
+      "timestamp": "2025-01-28T21:15:07Z",
+      "account": "fx",
+      "amount": "-80322.33",
+      "currency": "EUR",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 45,
+      "timestamp": "2025-01-28T22:15:56Z",
+      "account": "Ünïcode Ltd",
+      "amount": "98464.14",
+      "currency": "SGD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 46,
+      "timestamp": "2025-01-28T22:21:29Z",
+      "account": "Café Müller",
+      "amount": "22549.47",
+      "currency": "GBP",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 47,
+      "timestamp": "2025-01-28T23:27:20Z",
+      "account": "facilities",
+      "amount": "-64062.36",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 48,
+      "timestamp": "2025-01-28T23:58:07Z",
+      "account": "Ünïcode Ltd",
+      "amount": "71846.00",
+      "currency": "GBP",
+      "memo": "Client’s deposit",
+      "status": "pending"
+    },
+    {
+      "index": 49,
+      "timestamp": "2025-01-29T00:03:10Z",
+      "account": "ops",
+      "amount": "-4182.36",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 50,
+      "timestamp": "2025-01-29T00:19:55Z",
+      "account": "marketing",
+      "amount": "-22355.97",
+      "currency": "EUR",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 51,
+      "timestamp": "2025-01-29T01:08:20Z",
+      "account": "facilities",
+      "amount": "5904.55",
+      "currency": "USD",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 52,
+      "timestamp": "2025-01-29T01:55:07Z",
+      "account": "fx",
+      "amount": "-11787.42",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 53,
+      "timestamp": "2025-01-29T02:43:48Z",
+      "account": "support",
+      "amount": "45461.71",
+      "currency": "SGD",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 54,
+      "timestamp": "2025-01-29T03:52:49Z",
+      "account": "Ünïcode Ltd",
+      "amount": "36225.11",
+      "currency": "EUR",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 55,
+      "timestamp": "2025-01-29T04:47:35Z",
+      "account": "travel",
+      "amount": "-51603.89",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 56,
+      "timestamp": "2025-01-29T04:58:42Z",
+      "account": "rnd",
+      "amount": "91523.83",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 57,
+      "timestamp": "2025-01-29T05:53:16Z",
+      "account": "ops",
+      "amount": "7570.06",
+      "currency": "EUR",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 58,
+      "timestamp": "2025-01-29T07:09:09Z",
+      "account": "rnd",
+      "amount": "53702.83",
+      "currency": "USD",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 59,
+      "timestamp": "2025-01-29T08:11:47Z",
+      "account": "Ünïcode Ltd",
+      "amount": "40280.14",
+      "currency": "EUR",
+      "memo": "",
+      "status": "pending"
+    },
+    {
+      "index": 60,
+      "timestamp": "2025-01-29T09:00:24Z",
+      "account": "facilities",
+      "amount": "71222.50",
+      "currency": "SGD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 61,
+      "timestamp": "2025-01-29T10:09:26Z",
+      "account": "treasury",
+      "amount": "52642.77",
+      "currency": "EUR",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 62,
+      "timestamp": "2025-01-29T11:31:27Z",
+      "account": "ops",
+      "amount": "69823.18",
+      "currency": "GBP",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 63,
+      "timestamp": "2025-01-29T12:28:12Z",
+      "account": "rnd",
+      "amount": "74186.41",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    }
+  ]
+}

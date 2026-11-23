@@ -1,0 +1,10 @@
+id,timestamp,account,currency,amount,description
+L1,2024-01-31T22:45:00-05:00,ops,USD,100.00,ny late jan
+L2,2024-03-31T23:59:59-08:00,ops,USD,200.00,sf end of march
+L3,2024-02-29T21:00:00-06:00,ops,USD,300.00,leap day evening
+L4,2024-04-01T00:30:00+09:00,ops,USD,400.00,tokyo early april
+L5,2024-02-01T02:15:00+05:30,ops,USD,500.00,mumbai early feb
+L6,2024-05-01T00:10:00+01:00,ops,USD,600.00,london early may
+L7,2024-12-31T20:00:00-05:00,ops,USD,700.00,new year's eve ny
+L8,2024-06-15T12:00:00+00:00,ops,USD,800.00,midday
+L9,2024-07-31T23:00:00-03:00,ops,USD,900.00,late july

@@ -1,0 +1,17 @@
+{
+    "job_name": "jrn-format-decoder-gemini",
+    "jobs_dir": "tasks/jrn-format-decoder/artifacts",
+    "n_attempts": 5,
+    "n_concurrent_trials": 5,
+    "agents": [
+        {
+            "import_path": "pinned_agent:MiniSweAgent",
+            "model_name": "openrouter/google/gemini-3.8-flash"
+        }
+    ],
+    "tasks": [
+        {
+            "path": "tasks/jrn-format-decoder"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+  "default_currency": "GBP",
+  "accounts": [
+    "ops",
+    "payroll",
+    "travel",
+    "marketing"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2024-05-31T01:22:09Z",
+      "account": "marketing",
+      "amount": "4071.12",
+      "currency": "GBP",
+      "memo": "Catering — offsite",
+      "status": "pending"
+    },
+    {
+      "index": 1,
+      "timestamp": "2024-05-31T01:22:55Z",
+      "account": "travel",
+      "amount": "2335.34",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 2,
+      "timestamp": "2024-05-31T01:31:10Z",
+      "account": "marketing",
+      "amount": "-2614.39",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 3,
+      "timestamp": "2024-05-31T01:34:29Z",
+      "account": "marketing",
+      "amount": "915.18",
+      "currency": "GBP",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 4,
+      "timestamp": "2024-05-31T01:43:16Z",
+      "account": "travel",
+      "amount": "-4044.29",
+      "currency": "USD",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 5,
+      "timestamp": "2024-05-31T01:48:06Z",
+      "account": "travel",
+      "amount": "2578.71",
+      "currency": "USD",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 6,
+      "timestamp": "2024-05-31T01:48:26Z",
+      "account": "ops",
+      "amount": "921.75",
+      "currency": "GBP",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 7,
+      "timestamp": "2024-05-31T01:53:02Z",
+      "account": "travel",
+      "amount": "1259.59",
+      "currency": "USD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 8,
+      "timestamp": "2024-05-31T01:58:43Z",
+      "account": "travel",
+      "amount": "4923.66",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 9,
+      "timestamp": "2024-05-31T02:02:31Z",
+      "account": "travel",
+      "amount": "3619.66",
+      "currency": "USD",
+      "memo": "Client’s deposit",
+      "status": "pending"
+    },
+    {
+      "index": 10,
+      "timestamp": "2024-05-31T02:06:39Z",
+      "account": "travel",
+      "amount": "-4774.53",
+      "currency": "GBP",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 11,
+      "timestamp": "2024-05-31T02:09:24Z",
+      "account": "ops",
+      "amount": "-870.49",
+      "currency": "USD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    }
+  ]
+}

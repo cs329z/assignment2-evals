@@ -1,0 +1,71 @@
+{
+  "base_currency": "USD",
+  "transactions": 98,
+  "duplicates_dropped": 6,
+  "accounts": {
+    "marketing": {
+      "months": {
+        "2024-01": 582482,
+        "2024-02": 674819,
+        "2024-03": 18519,
+        "2024-04": 556051,
+        "2024-05": 72870,
+        "2024-06": 1899412
+      },
+      "total_cents": 3804153,
+      "largest": {
+        "id": "T0039",
+        "amount_cents": 695037,
+        "description": "Conference – registration"
+      }
+    },
+    "ops": {
+      "months": {
+        "2024-01": 646962,
+        "2024-02": 2143081,
+        "2024-03": 942024,
+        "2024-04": 820155,
+        "2024-05": 1515898,
+        "2024-06": 154965
+      },
+      "total_cents": 6223085,
+      "largest": {
+        "id": "T0104",
+        "amount_cents": -1200000,
+        "description": "Client’s deposit – refund"
+      }
+    },
+    "payroll": {
+      "months": {
+        "2024-01": 636209,
+        "2024-02": 803680,
+        "2024-03": 2206582,
+        "2024-04": 698535,
+        "2024-05": -566192,
+        "2024-06": 1424567
+      },
+      "total_cents": 5203381,
+      "largest": {
+        "id": "T0026",
+        "amount_cents": 851081,
+        "description": "Software license, annual"
+      }
+    },
+    "travel": {
+      "months": {
+        "2024-01": 3447023,
+        "2024-02": 1700892,
+        "2024-03": 823800,
+        "2024-04": 2397718,
+        "2024-05": 2263266,
+        "2024-06": 1348943
+      },
+      "total_cents": 11981642,
+      "largest": {
+        "id": "T0004",
+        "amount_cents": -964065,
+        "description": "Client’s deposit"
+      }
+    }
+  }
+}

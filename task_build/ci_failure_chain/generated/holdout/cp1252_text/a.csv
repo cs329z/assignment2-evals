@@ -1,0 +1,11 @@
+id,timestamp,account,currency,amount,description
+C1,2024-05-03T10:00:00+00:00,acc-a,USD,900.00,Café Müller – dépôt
+C2,2024-05-04T10:00:00+00:00,acc-b,USD,900.00,Client’s “rush” fee €
+C3,2024-05-05T10:00:00+00:00,acc-c,USD,900.00,Señor Núñez — invoice…
+C4,2024-05-06T10:00:00+00:00,acc-d,USD,900.00,"naïve façade ½ price, tax"
+C5,2024-05-07T10:00:00+00:00,acc-e,USD,(900.00),Zürich • Œuvre ™
+C6,2024-05-08T10:00:00+00:00,acc-a,USD,1.00,small
+C7,2024-05-09T10:00:00+00:00,acc-b,USD,1.00,small
+C8,2024-05-10T10:00:00+00:00,acc-c,USD,1.00,small
+C9,2024-05-11T10:00:00+00:00,acc-d,USD,1.00,small
+C10,2024-05-12T10:00:00+00:00,acc-e,USD,1.00,small

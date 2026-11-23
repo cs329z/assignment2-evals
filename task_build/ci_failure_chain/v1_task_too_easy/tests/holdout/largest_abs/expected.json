@@ -1,0 +1,40 @@
+{
+  "base_currency": "USD",
+  "transactions": 8,
+  "duplicates_dropped": 0,
+  "accounts": {
+    "fx": {
+      "months": {
+        "2024-05": 84450
+      },
+      "total_cents": 84450,
+      "largest": {
+        "id": "G5",
+        "amount_cents": 67000,
+        "description": "jpy 670.00 usd"
+      }
+    },
+    "plain": {
+      "months": {
+        "2024-05": 3000
+      },
+      "total_cents": 3000,
+      "largest": {
+        "id": "G8",
+        "amount_cents": 2000,
+        "description": "only second"
+      }
+    },
+    "refunds": {
+      "months": {
+        "2024-05": 3485
+      },
+      "total_cents": 3485,
+      "largest": {
+        "id": "G2",
+        "amount_cents": -7525,
+        "description": "biggest by magnitude, a refund"
+      }
+    }
+  }
+}

@@ -4,52 +4,69 @@
 \usepackage{array}
 \usepackage{booktabs}
 \usepackage{tabularx}
+\geometry{margin=0.65in}
 
 \begin{document}
+\small
+\setlength{\parskip}{2pt}
 
-\section*{Task ID: \underline{\hspace{0.62\linewidth}}}
+\section*{Task ID: \underline{\texttt{jrn-format-decoder}}}
+\vspace{-6pt}
 
 \subsection*{Description}
-Describe the task, the capability it measures, its environment, and the initial assets provided to the agent.
-
-\vspace{1.1in}
+\vspace{-3pt}
+\textbf{Capability:} reverse-engineering an undocumented binary file format from examples, as in a real legacy-data migration.
+A defunct vendor's accounting system exported journals as binary \texttt{.jrn} files, with no documentation or exporter source.
+The agent works in a Python 3.12 Docker container (base image pinned by digest, no extra tools) containing \texttt{/app/samples}:
+9 \texttt{.jrn} files, each paired with its correct decoded \texttt{.json}. It must write \texttt{/app/jrndecode.py} (standard library only)
+that prints the decoded journal as JSON for \emph{any} valid file, and exits with status 2 and no stdout for a file with a bad magic number or failed
+integrity check. The task is multi-turn: agents inspect hex dumps, form hypotheses, and test them against the ground truth (48--71 steps in every attempt).
 
 \subsection*{Construction}
-Explain how you constructed the task and which verification techniques you used.
-
-\vspace{1.1in}
+\vspace{-3pt}
+A generator creates ground-truth records, \emph{encodes} them into the format, and derives the expected JSON from the same records, so expected answers never depend on a decoder.
+The format has: a big-endian header, LEB128 varints (delta timestamps, amounts), per-record flag bits (negative, pending, explicit currency),
+memo text XOR-obfuscated with 0x5A, currency-dependent decimals (JPY 0, KWD 3, others 2), an account table with indices $\ge128$,
+memo \emph{back-references} to earlier memos (a table in first-seen order), and a little-endian CRC32 trailer over the bytes between the magic and the trailer.
+\textbf{Verification:} \texttt{tests/test.sh} deletes \texttt{/app/samples} (no lookup at runtime), then runs the agent's decoder on 16 hidden files
+(random mixes, a 300-record file, 20\,KB memos, an empty file, 255 accounts, and 2 corrupt files that must exit 2) and gives reward 1 only if every file matches exactly.
+\textbf{Validation:} doing nothing scores 0; the oracle scores 1 (also in Harbor); 11 deliberately broken decoders (each ignoring one feature, e.g.\ XOR, decimals, CRC, back-reference indexing) all score 0;
+an independently written decoder scores 1. \textbf{Iteration:} my first task (a CI-repair task) was passed 5/5, so I replaced it; the first decoder version passed 3/5, so I added the back-reference layer.
 
 \subsection*{Outcomes}
-
+\vspace{-4pt}
 \begin{center}
-\renewcommand{\arraystretch}{1.3}
+\renewcommand{\arraystretch}{1.15}
 \begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}Xccccc}
   \toprule
   Metric & Attempt 1 & Attempt 2 & Attempt 3 & Attempt 4 & Attempt 5 \\
   \midrule
-  Verifier reward & & & & & \\
-  Wall-clock time & & & & & \\
-  Tokens or cost & & & & & \\
+  Verifier reward & 1 & 0 & 0 & 0 & 1 \\
+  Wall-clock time & 14m30s & 15m00s (timeout) & 15m00s (timeout) & 15m00s (timeout) & 14m51s \\
+  Tokens in / out & 1.22M / 22k & 0.99M / 28k & 1.07M / 22k & 1.20M / 19k & 1.65M / 26k \\
+  Steps & 69 & 48 & 57 & 69 & 71 \\
   \bottomrule
 \end{tabularx}
 \end{center}
-
-Summarize the most informative success, failure, or difference between models.
-
-\vspace{0.65in}
+\vspace{4pt}
+Gemini 3.8 Flash with mini-SWE-agent passed 2 of 5 (attempts numbered by trial ID; the run cost was recorded as \$0, so tokens are shown).
+All five found the CRC32, XOR and varint structure early, and the back-reference layer was the hardest part (first noticed around steps 22--33).
+The most informative result is the \emph{failure pattern}: all three failures timed out at 900\,s without ever saving \texttt{/app/jrndecode.py} (reward 0, so no partial credit),
+even though one only confirmed the back-reference rule at step 55 of 57 and another was still checking flag bits in its final steps. The two passes also finished close to the limit (14.5--15 min).
+The failing agents kept analysing instead of saving a first working decoder, so the time limit, not a wrong answer, decided those runs.
 
 \subsection*{Self-assessment}
-
+\vspace{-4pt}
 \begin{center}
-\renewcommand{\arraystretch}{1.3}
-\begin{tabularx}{\linewidth}{>{\bfseries\raggedright\arraybackslash}p{0.25\linewidth}p{0.15\linewidth}X}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabularx}{\linewidth}{>{\bfseries\raggedright\arraybackslash}p{0.19\linewidth}p{0.125\linewidth}X}
   \toprule
   Axis & Rating (1--5) & Brief justification \\
   \midrule
-  Reproducibility & & \\
-  Capability & & \\
-  Task--verifier fidelity & & \\
-  Difficulty & & \\
+  Reproducibility & 5 & Pinned base image, no network needed, deterministic generated data; the oracle scored 1.0 in Harbor and the checker found all artifacts. \\
+  Capability & 4 & Legacy-format recovery is a real migration job and needs exploring, hypothesising and testing; a less common real-world skill than debugging, but not a toy puzzle. \\
+  Task--verifier fidelity & 4 & Ground truth comes from the generating records, hidden files include unseen combinations, and broken decoders fail while a differently written one passes; the all-or-nothing reward gives no partial credit. \\
+  Difficulty & 3 & 2/5 passes meets the target, but 5 runs is a small sample and the failures were time-limited (nothing saved by 15 min), so they reflect slow planning as much as format knowledge. \\
   \bottomrule
 \end{tabularx}
 \end{center}

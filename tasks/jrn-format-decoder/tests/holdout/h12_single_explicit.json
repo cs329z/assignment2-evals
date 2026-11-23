@@ -1,0 +1,17 @@
+{
+  "default_currency": "USD",
+  "accounts": [
+    "solo"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2022-10-20T01:18:21Z",
+      "account": "solo",
+      "amount": "49318",
+      "currency": "JPY",
+      "memo": "",
+      "status": "posted"
+    }
+  ]
+}

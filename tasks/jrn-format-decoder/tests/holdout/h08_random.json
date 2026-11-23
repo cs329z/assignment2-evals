@@ -1,0 +1,685 @@
+{
+  "default_currency": "JPY",
+  "accounts": [
+    "treasury",
+    "support",
+    "payroll",
+    "hr",
+    "Café Müller",
+    "rnd",
+    "fx",
+    "legal",
+    "IT",
+    "audit",
+    "marketing",
+    "Ünïcode Ltd"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2023-06-23T00:04:14Z",
+      "account": "Ünïcode Ltd",
+      "amount": "13.65",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 1,
+      "timestamp": "2023-06-24T07:44:06Z",
+      "account": "marketing",
+      "amount": "4123",
+      "currency": "JPY",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 2,
+      "timestamp": "2023-06-28T05:21:02Z",
+      "account": "Café Müller",
+      "amount": "4184",
+      "currency": "JPY",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 3,
+      "timestamp": "2023-06-30T07:54:04Z",
+      "account": "support",
+      "amount": "2.985",
+      "currency": "KWD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 4,
+      "timestamp": "2023-07-03T06:32:43Z",
+      "account": "hr",
+      "amount": "-3.14",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 5,
+      "timestamp": "2023-07-03T22:10:35Z",
+      "account": "fx",
+      "amount": "39.43",
+      "currency": "USD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 6,
+      "timestamp": "2023-07-08T10:05:50Z",
+      "account": "support",
+      "amount": "38.30",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 7,
+      "timestamp": "2023-07-12T15:31:08Z",
+      "account": "audit",
+      "amount": "1552",
+      "currency": "JPY",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 8,
+      "timestamp": "2023-07-14T07:14:46Z",
+      "account": "fx",
+      "amount": "-35.10",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 9,
+      "timestamp": "2023-07-18T21:21:00Z",
+      "account": "Café Müller",
+      "amount": "-3.193",
+      "currency": "KWD",
+      "memo": "Taxi to airport",
+      "status": "pending"
+    },
+    {
+      "index": 10,
+      "timestamp": "2023-07-22T19:35:50Z",
+      "account": "support",
+      "amount": "34.79",
+      "currency": "USD",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 11,
+      "timestamp": "2023-07-24T13:50:16Z",
+      "account": "legal",
+      "amount": "0.81",
+      "currency": "USD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 12,
+      "timestamp": "2023-07-24T21:04:59Z",
+      "account": "audit",
+      "amount": "-35.61",
+      "currency": "GBP",
+      "memo": "Refund: order 77",
+      "status": "pending"
+    },
+    {
+      "index": 13,
+      "timestamp": "2023-07-25T19:40:55Z",
+      "account": "payroll",
+      "amount": "2.758",
+      "currency": "KWD",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 14,
+      "timestamp": "2023-07-30T05:50:33Z",
+      "account": "marketing",
+      "amount": "-14.55",
+      "currency": "USD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 15,
+      "timestamp": "2023-07-30T07:42:09Z",
+      "account": "legal",
+      "amount": "46.62",
+      "currency": "USD",
+      "memo": "Catering — offsite",
+      "status": "pending"
+    },
+    {
+      "index": 16,
+      "timestamp": "2023-07-31T11:58:34Z",
+      "account": "treasury",
+      "amount": "1115",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 17,
+      "timestamp": "2023-08-03T17:58:44Z",
+      "account": "fx",
+      "amount": "-7.65",
+      "currency": "GBP",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 18,
+      "timestamp": "2023-08-07T00:54:57Z",
+      "account": "rnd",
+      "amount": "39.26",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 19,
+      "timestamp": "2023-08-09T18:27:10Z",
+      "account": "hr",
+      "amount": "29.54",
+      "currency": "GBP",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 20,
+      "timestamp": "2023-08-09T19:46:41Z",
+      "account": "legal",
+      "amount": "-3011",
+      "currency": "JPY",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 21,
+      "timestamp": "2023-08-13T19:01:26Z",
+      "account": "audit",
+      "amount": "14.08",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 22,
+      "timestamp": "2023-08-17T09:42:00Z",
+      "account": "Ünïcode Ltd",
+      "amount": "1.13",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 23,
+      "timestamp": "2023-08-18T18:29:00Z",
+      "account": "legal",
+      "amount": "-1809",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 24,
+      "timestamp": "2023-08-22T11:18:41Z",
+      "account": "marketing",
+      "amount": "47.34",
+      "currency": "GBP",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 25,
+      "timestamp": "2023-08-25T11:13:15Z",
+      "account": "treasury",
+      "amount": "3046",
+      "currency": "JPY",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 26,
+      "timestamp": "2023-08-26T07:15:06Z",
+      "account": "legal",
+      "amount": "-3142",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 27,
+      "timestamp": "2023-08-28T16:46:07Z",
+      "account": "treasury",
+      "amount": "4.984",
+      "currency": "KWD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 28,
+      "timestamp": "2023-08-31T17:00:22Z",
+      "account": "IT",
+      "amount": "-3018",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 29,
+      "timestamp": "2023-09-04T23:33:43Z",
+      "account": "Café Müller",
+      "amount": "11.97",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 30,
+      "timestamp": "2023-09-07T09:28:36Z",
+      "account": "IT",
+      "amount": "42.69",
+      "currency": "GBP",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 31,
+      "timestamp": "2023-09-07T13:20:23Z",
+      "account": "legal",
+      "amount": "-2795",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 32,
+      "timestamp": "2023-09-11T06:03:47Z",
+      "account": "support",
+      "amount": "-28.95",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 33,
+      "timestamp": "2023-09-14T02:00:05Z",
+      "account": "treasury",
+      "amount": "0.034",
+      "currency": "KWD",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 34,
+      "timestamp": "2023-09-16T04:03:20Z",
+      "account": "fx",
+      "amount": "23.97",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 35,
+      "timestamp": "2023-09-19T13:17:14Z",
+      "account": "treasury",
+      "amount": "-42.83",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 36,
+      "timestamp": "2023-09-19T22:11:19Z",
+      "account": "marketing",
+      "amount": "1.740",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 37,
+      "timestamp": "2023-09-20T10:04:13Z",
+      "account": "audit",
+      "amount": "37.41",
+      "currency": "GBP",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 38,
+      "timestamp": "2023-09-24T20:05:29Z",
+      "account": "payroll",
+      "amount": "11.03",
+      "currency": "GBP",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 39,
+      "timestamp": "2023-09-27T15:27:33Z",
+      "account": "payroll",
+      "amount": "3.28",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 40,
+      "timestamp": "2023-09-29T17:11:49Z",
+      "account": "treasury",
+      "amount": "-2.613",
+      "currency": "KWD",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 41,
+      "timestamp": "2023-10-02T01:42:15Z",
+      "account": "support",
+      "amount": "-3183",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 42,
+      "timestamp": "2023-10-03T16:49:37Z",
+      "account": "treasury",
+      "amount": "0.472",
+      "currency": "KWD",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 43,
+      "timestamp": "2023-10-05T19:27:40Z",
+      "account": "Ünïcode Ltd",
+      "amount": "0.109",
+      "currency": "KWD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 44,
+      "timestamp": "2023-10-09T22:25:58Z",
+      "account": "IT",
+      "amount": "266",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 45,
+      "timestamp": "2023-10-12T05:02:07Z",
+      "account": "payroll",
+      "amount": "2.355",
+      "currency": "KWD",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 46,
+      "timestamp": "2023-10-14T19:51:00Z",
+      "account": "rnd",
+      "amount": "-41.77",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 47,
+      "timestamp": "2023-10-18T11:43:48Z",
+      "account": "legal",
+      "amount": "3574",
+      "currency": "JPY",
+      "memo": "Taxi to airport",
+      "status": "pending"
+    },
+    {
+      "index": 48,
+      "timestamp": "2023-10-19T00:26:45Z",
+      "account": "payroll",
+      "amount": "664",
+      "currency": "JPY",
+      "memo": "Refund: order 77",
+      "status": "pending"
+    },
+    {
+      "index": 49,
+      "timestamp": "2023-10-22T12:33:07Z",
+      "account": "payroll",
+      "amount": "-2.816",
+      "currency": "KWD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 50,
+      "timestamp": "2023-10-25T02:12:42Z",
+      "account": "fx",
+      "amount": "22.91",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 51,
+      "timestamp": "2023-10-29T07:09:58Z",
+      "account": "audit",
+      "amount": "4270",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 52,
+      "timestamp": "2023-10-30T23:51:34Z",
+      "account": "rnd",
+      "amount": "3.587",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 53,
+      "timestamp": "2023-10-31T07:50:14Z",
+      "account": "payroll",
+      "amount": "1733",
+      "currency": "JPY",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 54,
+      "timestamp": "2023-11-02T18:59:46Z",
+      "account": "audit",
+      "amount": "3.327",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 55,
+      "timestamp": "2023-11-04T13:19:17Z",
+      "account": "marketing",
+      "amount": "49.13",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 56,
+      "timestamp": "2023-11-08T06:09:00Z",
+      "account": "Ünïcode Ltd",
+      "amount": "319",
+      "currency": "JPY",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 57,
+      "timestamp": "2023-11-11T09:53:54Z",
+      "account": "legal",
+      "amount": "-0.55",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 58,
+      "timestamp": "2023-11-15T10:58:52Z",
+      "account": "hr",
+      "amount": "0.116",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 59,
+      "timestamp": "2023-11-19T19:59:32Z",
+      "account": "marketing",
+      "amount": "12.44",
+      "currency": "USD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 60,
+      "timestamp": "2023-11-23T00:20:20Z",
+      "account": "IT",
+      "amount": "46.34",
+      "currency": "USD",
+      "memo": "Monthly retainer",
+      "status": "pending"
+    },
+    {
+      "index": 61,
+      "timestamp": "2023-11-26T04:19:55Z",
+      "account": "treasury",
+      "amount": "3356",
+      "currency": "JPY",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 62,
+      "timestamp": "2023-11-27T20:12:46Z",
+      "account": "IT",
+      "amount": "1.70",
+      "currency": "GBP",
+      "memo": "Taxi to airport",
+      "status": "pending"
+    },
+    {
+      "index": 63,
+      "timestamp": "2023-11-28T04:31:38Z",
+      "account": "hr",
+      "amount": "1.158",
+      "currency": "KWD",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 64,
+      "timestamp": "2023-11-28T13:26:42Z",
+      "account": "marketing",
+      "amount": "4685",
+      "currency": "JPY",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 65,
+      "timestamp": "2023-11-29T13:13:54Z",
+      "account": "legal",
+      "amount": "839",
+      "currency": "JPY",
+      "memo": "Invoice #4021, net 30",
+      "status": "pending"
+    },
+    {
+      "index": 66,
+      "timestamp": "2023-12-03T02:15:37Z",
+      "account": "marketing",
+      "amount": "-34.99",
+      "currency": "GBP",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 67,
+      "timestamp": "2023-12-06T12:11:49Z",
+      "account": "hr",
+      "amount": "4.168",
+      "currency": "KWD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 68,
+      "timestamp": "2023-12-07T23:34:40Z",
+      "account": "fx",
+      "amount": "3.481",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 69,
+      "timestamp": "2023-12-10T18:07:13Z",
+      "account": "audit",
+      "amount": "32.19",
+      "currency": "USD",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 70,
+      "timestamp": "2023-12-10T19:46:51Z",
+      "account": "payroll",
+      "amount": "0.700",
+      "currency": "KWD",
+      "memo": "Invoice #4021, net 30",
+      "status": "pending"
+    },
+    {
+      "index": 71,
+      "timestamp": "2023-12-11T16:31:33Z",
+      "account": "legal",
+      "amount": "-2.708",
+      "currency": "KWD",
+      "memo": "Monthly retainer",
+      "status": "pending"
+    },
+    {
+      "index": 72,
+      "timestamp": "2023-12-16T05:07:21Z",
+      "account": "Café Müller",
+      "amount": "-10.29",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 73,
+      "timestamp": "2023-12-19T14:50:04Z",
+      "account": "rnd",
+      "amount": "28.28",
+      "currency": "GBP",
+      "memo": null,
+      "status": "pending"
+    }
+  ]
+}

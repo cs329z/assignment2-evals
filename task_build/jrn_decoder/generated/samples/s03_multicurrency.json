@@ -1,0 +1,228 @@
+{
+  "default_currency": "EUR",
+  "accounts": [
+    "ops",
+    "payroll",
+    "travel",
+    "marketing",
+    "Café Müller"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2021-04-07T05:33:57Z",
+      "account": "marketing",
+      "amount": "439454",
+      "currency": "JPY",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 1,
+      "timestamp": "2021-04-07T05:40:14Z",
+      "account": "travel",
+      "amount": "2525.41",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 2,
+      "timestamp": "2021-04-07T05:43:38Z",
+      "account": "travel",
+      "amount": "2215.41",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 3,
+      "timestamp": "2021-04-07T05:45:15Z",
+      "account": "travel",
+      "amount": "825.981",
+      "currency": "KWD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 4,
+      "timestamp": "2021-04-07T05:50:42Z",
+      "account": "ops",
+      "amount": "411379",
+      "currency": "JPY",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 5,
+      "timestamp": "2021-04-07T06:00:03Z",
+      "account": "payroll",
+      "amount": "550.710",
+      "currency": "KWD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 6,
+      "timestamp": "2021-04-07T06:07:03Z",
+      "account": "ops",
+      "amount": "-323339",
+      "currency": "JPY",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 7,
+      "timestamp": "2021-04-07T06:14:23Z",
+      "account": "marketing",
+      "amount": "754520",
+      "currency": "JPY",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 8,
+      "timestamp": "2021-04-07T06:18:32Z",
+      "account": "travel",
+      "amount": "-2027.65",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 9,
+      "timestamp": "2021-04-07T06:22:29Z",
+      "account": "payroll",
+      "amount": "369246",
+      "currency": "JPY",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 10,
+      "timestamp": "2021-04-07T06:22:33Z",
+      "account": "payroll",
+      "amount": "5389.99",
+      "currency": "USD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 11,
+      "timestamp": "2021-04-07T06:26:08Z",
+      "account": "payroll",
+      "amount": "754.037",
+      "currency": "KWD",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 12,
+      "timestamp": "2021-04-07T06:34:09Z",
+      "account": "payroll",
+      "amount": "6213.69",
+      "currency": "EUR",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 13,
+      "timestamp": "2021-04-07T06:35:43Z",
+      "account": "Café Müller",
+      "amount": "870278",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 14,
+      "timestamp": "2021-04-07T06:39:48Z",
+      "account": "travel",
+      "amount": "5752.41",
+      "currency": "EUR",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 15,
+      "timestamp": "2021-04-07T06:40:02Z",
+      "account": "marketing",
+      "amount": "4932.52",
+      "currency": "EUR",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 16,
+      "timestamp": "2021-04-07T06:40:35Z",
+      "account": "ops",
+      "amount": "-637299",
+      "currency": "JPY",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 17,
+      "timestamp": "2021-04-07T06:44:26Z",
+      "account": "travel",
+      "amount": "31995",
+      "currency": "JPY",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 18,
+      "timestamp": "2021-04-07T06:52:58Z",
+      "account": "ops",
+      "amount": "547.722",
+      "currency": "KWD",
+      "memo": "出張費",
+      "status": "posted"
+    },
+    {
+      "index": 19,
+      "timestamp": "2021-04-07T06:56:01Z",
+      "account": "travel",
+      "amount": "2076.83",
+      "currency": "GBP",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 20,
+      "timestamp": "2021-04-07T07:01:27Z",
+      "account": "marketing",
+      "amount": "7789.42",
+      "currency": "EUR",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 21,
+      "timestamp": "2021-04-07T07:06:47Z",
+      "account": "Café Müller",
+      "amount": "-249376",
+      "currency": "JPY",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 22,
+      "timestamp": "2021-04-07T07:15:05Z",
+      "account": "ops",
+      "amount": "188331",
+      "currency": "JPY",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 23,
+      "timestamp": "2021-04-07T07:20:40Z",
+      "account": "travel",
+      "amount": "315.417",
+      "currency": "KWD",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+id,timestamp,account,currency,amount,description
+T3,2024-05-05T10:00:00+00:00,ops,USD,35.00,b3
+T4,2024-05-06T10:00:00+00:00,ops,USD,45.00,b4
+T5,2024-05-07T10:00:00+00:00,ops,USD,55.00,b5
+T6,2024-05-08T10:00:00+00:00,ops,USD,65.00,b6
+T7,2024-05-09T10:00:00+00:00,ops,USD,75.00,b7

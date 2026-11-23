@@ -1,0 +1,18 @@
+{
+  "base_currency": "USD",
+  "transactions": 12,
+  "duplicates_dropped": 2,
+  "accounts": {
+    "ops": {
+      "months": {
+        "2024-05": 43500
+      },
+      "total_cents": 43500,
+      "largest": {
+        "id": "T7",
+        "amount_cents": 7500,
+        "description": "b7"
+      }
+    }
+  }
+}

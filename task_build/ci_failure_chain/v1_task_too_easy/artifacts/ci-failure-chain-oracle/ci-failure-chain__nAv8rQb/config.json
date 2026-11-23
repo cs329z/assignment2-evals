@@ -1,0 +1,8 @@
+{
+    "task": {
+        "path": "tasks/ci-failure-chain"
+    },
+    "trial_name": "ci-failure-chain__nAv8rQb",
+    "trials_dir": "tasks/ci-failure-chain/artifacts/ci-failure-chain-oracle",
+    "job_id": "7d8eb1f7-54fc-44ef-b603-b9a7aae203c2"
+}

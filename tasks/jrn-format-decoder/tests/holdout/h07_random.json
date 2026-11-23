@@ -1,0 +1,612 @@
+{
+  "default_currency": "KWD",
+  "accounts": [
+    "Café Müller",
+    "support",
+    "IT",
+    "marketing",
+    "audit",
+    "rnd",
+    "payroll",
+    "treasury",
+    "fx",
+    "sales",
+    "ops"
+  ],
+  "records": [
+    {
+      "index": 0,
+      "timestamp": "2025-05-06T14:10:16Z",
+      "account": "audit",
+      "amount": "31.22",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 1,
+      "timestamp": "2025-05-08T09:43:25Z",
+      "account": "rnd",
+      "amount": "-10.83",
+      "currency": "SGD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "timestamp": "2025-05-12T11:34:28Z",
+      "account": "marketing",
+      "amount": "0.89",
+      "currency": "USD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 3,
+      "timestamp": "2025-05-13T09:01:57Z",
+      "account": "fx",
+      "amount": "-48.18",
+      "currency": "SGD",
+      "memo": "Refund: order 77",
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "timestamp": "2025-05-15T01:19:37Z",
+      "account": "treasury",
+      "amount": "-1.25",
+      "currency": "EUR",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 5,
+      "timestamp": "2025-05-17T01:13:31Z",
+      "account": "payroll",
+      "amount": "31.56",
+      "currency": "CHF",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 6,
+      "timestamp": "2025-05-20T22:59:47Z",
+      "account": "audit",
+      "amount": "-36.99",
+      "currency": "USD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 7,
+      "timestamp": "2025-05-25T05:15:27Z",
+      "account": "rnd",
+      "amount": "39.46",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 8,
+      "timestamp": "2025-05-26T00:55:13Z",
+      "account": "rnd",
+      "amount": "15.25",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 9,
+      "timestamp": "2025-05-30T14:50:17Z",
+      "account": "IT",
+      "amount": "-1.36",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 10,
+      "timestamp": "2025-06-02T00:06:45Z",
+      "account": "IT",
+      "amount": "41.75",
+      "currency": "CHF",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 11,
+      "timestamp": "2025-06-03T20:31:35Z",
+      "account": "support",
+      "amount": "-33.54",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 12,
+      "timestamp": "2025-06-06T06:04:01Z",
+      "account": "Café Müller",
+      "amount": "-35.21",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 13,
+      "timestamp": "2025-06-10T17:47:28Z",
+      "account": "fx",
+      "amount": "25.61",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 14,
+      "timestamp": "2025-06-14T01:12:56Z",
+      "account": "support",
+      "amount": "4.71",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 15,
+      "timestamp": "2025-06-14T03:49:18Z",
+      "account": "treasury",
+      "amount": "44.12",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 16,
+      "timestamp": "2025-06-16T14:59:43Z",
+      "account": "marketing",
+      "amount": "6.36",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 17,
+      "timestamp": "2025-06-17T00:18:34Z",
+      "account": "sales",
+      "amount": "3.79",
+      "currency": "CHF",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 18,
+      "timestamp": "2025-06-18T19:34:10Z",
+      "account": "fx",
+      "amount": "-29.29",
+      "currency": "SGD",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 19,
+      "timestamp": "2025-06-21T21:42:57Z",
+      "account": "audit",
+      "amount": "32.42",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 20,
+      "timestamp": "2025-06-23T09:36:19Z",
+      "account": "treasury",
+      "amount": "6.75",
+      "currency": "EUR",
+      "memo": "",
+      "status": "posted"
+    },
+    {
+      "index": 21,
+      "timestamp": "2025-06-25T02:26:38Z",
+      "account": "support",
+      "amount": "15.90",
+      "currency": "EUR",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 22,
+      "timestamp": "2025-06-27T17:28:07Z",
+      "account": "rnd",
+      "amount": "46.81",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 23,
+      "timestamp": "2025-07-01T00:22:34Z",
+      "account": "sales",
+      "amount": "3.34",
+      "currency": "EUR",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 24,
+      "timestamp": "2025-07-03T19:04:01Z",
+      "account": "audit",
+      "amount": "30.68",
+      "currency": "SGD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 25,
+      "timestamp": "2025-07-08T09:54:14Z",
+      "account": "support",
+      "amount": "46.42",
+      "currency": "CHF",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 26,
+      "timestamp": "2025-07-12T13:56:35Z",
+      "account": "rnd",
+      "amount": "38.48",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 27,
+      "timestamp": "2025-07-16T14:59:01Z",
+      "account": "sales",
+      "amount": "-19.12",
+      "currency": "CHF",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 28,
+      "timestamp": "2025-07-17T09:57:09Z",
+      "account": "IT",
+      "amount": "-16.97",
+      "currency": "SGD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 29,
+      "timestamp": "2025-07-17T11:58:05Z",
+      "account": "treasury",
+      "amount": "31.02",
+      "currency": "SGD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 30,
+      "timestamp": "2025-07-21T16:54:39Z",
+      "account": "Café Müller",
+      "amount": "-16.90",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 31,
+      "timestamp": "2025-07-24T07:17:13Z",
+      "account": "treasury",
+      "amount": "4.23",
+      "currency": "CHF",
+      "memo": "Taxi to airport",
+      "status": "pending"
+    },
+    {
+      "index": 32,
+      "timestamp": "2025-07-26T16:53:02Z",
+      "account": "sales",
+      "amount": "48.91",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 33,
+      "timestamp": "2025-07-28T04:37:01Z",
+      "account": "treasury",
+      "amount": "39.61",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 34,
+      "timestamp": "2025-07-30T12:11:14Z",
+      "account": "rnd",
+      "amount": "25.97",
+      "currency": "EUR",
+      "memo": "Monthly retainer",
+      "status": "posted"
+    },
+    {
+      "index": 35,
+      "timestamp": "2025-08-01T05:34:11Z",
+      "account": "support",
+      "amount": "-43.09",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 36,
+      "timestamp": "2025-08-01T22:59:36Z",
+      "account": "sales",
+      "amount": "18.13",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 37,
+      "timestamp": "2025-08-03T17:27:01Z",
+      "account": "audit",
+      "amount": "23.24",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 38,
+      "timestamp": "2025-08-06T04:31:04Z",
+      "account": "rnd",
+      "amount": "32.52",
+      "currency": "EUR",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 39,
+      "timestamp": "2025-08-10T05:17:38Z",
+      "account": "treasury",
+      "amount": "-43.42",
+      "currency": "CHF",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    },
+    {
+      "index": 40,
+      "timestamp": "2025-08-13T15:21:16Z",
+      "account": "ops",
+      "amount": "-33.41",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 41,
+      "timestamp": "2025-08-16T20:56:12Z",
+      "account": "ops",
+      "amount": "36.73",
+      "currency": "CHF",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 42,
+      "timestamp": "2025-08-17T02:02:28Z",
+      "account": "ops",
+      "amount": "14.83",
+      "currency": "SGD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 43,
+      "timestamp": "2025-08-19T03:58:24Z",
+      "account": "IT",
+      "amount": "-9.40",
+      "currency": "CHF",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 44,
+      "timestamp": "2025-08-23T14:12:40Z",
+      "account": "ops",
+      "amount": "30.42",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 45,
+      "timestamp": "2025-08-27T22:37:44Z",
+      "account": "payroll",
+      "amount": "22.31",
+      "currency": "CHF",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 46,
+      "timestamp": "2025-08-30T09:00:10Z",
+      "account": "rnd",
+      "amount": "17.88",
+      "currency": "USD",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 47,
+      "timestamp": "2025-09-02T05:51:34Z",
+      "account": "audit",
+      "amount": "23.23",
+      "currency": "USD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 48,
+      "timestamp": "2025-09-06T20:09:31Z",
+      "account": "ops",
+      "amount": "11.86",
+      "currency": "USD",
+      "memo": "Taxi to airport",
+      "status": "pending"
+    },
+    {
+      "index": 49,
+      "timestamp": "2025-09-08T02:44:54Z",
+      "account": "rnd",
+      "amount": "-14.12",
+      "currency": "SGD",
+      "memo": null,
+      "status": "pending"
+    },
+    {
+      "index": 50,
+      "timestamp": "2025-09-11T06:28:35Z",
+      "account": "sales",
+      "amount": "1.08",
+      "currency": "USD",
+      "memo": "Refund: order 77",
+      "status": "posted"
+    },
+    {
+      "index": 51,
+      "timestamp": "2025-09-12T23:34:24Z",
+      "account": "fx",
+      "amount": "22.21",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 52,
+      "timestamp": "2025-09-17T07:06:43Z",
+      "account": "IT",
+      "amount": "-34.30",
+      "currency": "EUR",
+      "memo": "Taxi to airport",
+      "status": "posted"
+    },
+    {
+      "index": 53,
+      "timestamp": "2025-09-20T00:48:45Z",
+      "account": "rnd",
+      "amount": "28.80",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 54,
+      "timestamp": "2025-09-24T05:39:07Z",
+      "account": "sales",
+      "amount": "-29.11",
+      "currency": "CHF",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 55,
+      "timestamp": "2025-09-24T17:24:20Z",
+      "account": "sales",
+      "amount": "21.69",
+      "currency": "SGD",
+      "memo": "出張費",
+      "status": "pending"
+    },
+    {
+      "index": 56,
+      "timestamp": "2025-09-29T03:59:23Z",
+      "account": "Café Müller",
+      "amount": "22.10",
+      "currency": "EUR",
+      "memo": "Invoice #4021, net 30",
+      "status": "posted"
+    },
+    {
+      "index": 57,
+      "timestamp": "2025-10-03T02:43:01Z",
+      "account": "ops",
+      "amount": "26.98",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 58,
+      "timestamp": "2025-10-05T09:07:17Z",
+      "account": "payroll",
+      "amount": "-20.10",
+      "currency": "CHF",
+      "memo": "Client’s deposit",
+      "status": "posted"
+    },
+    {
+      "index": 59,
+      "timestamp": "2025-10-05T18:18:56Z",
+      "account": "fx",
+      "amount": "28.10",
+      "currency": "SGD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 60,
+      "timestamp": "2025-10-07T03:19:50Z",
+      "account": "fx",
+      "amount": "7.56",
+      "currency": "USD",
+      "memo": null,
+      "status": "posted"
+    },
+    {
+      "index": 61,
+      "timestamp": "2025-10-08T21:32:09Z",
+      "account": "support",
+      "amount": "-44.58",
+      "currency": "SGD",
+      "memo": "Invoice #4021, net 30",
+      "status": "pending"
+    },
+    {
+      "index": 62,
+      "timestamp": "2025-10-12T20:32:48Z",
+      "account": "audit",
+      "amount": "-29.40",
+      "currency": "EUR",
+      "memo": "Zürich 🏨 hotel",
+      "status": "posted"
+    },
+    {
+      "index": 63,
+      "timestamp": "2025-10-13T05:19:05Z",
+      "account": "payroll",
+      "amount": "8.03",
+      "currency": "SGD",
+      "memo": "Catering — offsite",
+      "status": "posted"
+    },
+    {
+      "index": 64,
+      "timestamp": "2025-10-15T16:35:54Z",
+      "account": "fx",
+      "amount": "-4.02",
+      "currency": "EUR",
+      "memo": "Taxi to airport",
+      "status": "pending"
+    },
+    {
+      "index": 65,
+      "timestamp": "2025-10-17T15:35:45Z",
+      "account": "IT",
+      "amount": "13.57",
+      "currency": "USD",
+      "memo": "Café Müller – lunch",
+      "status": "posted"
+    }
+  ]
+}

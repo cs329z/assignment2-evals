@@ -1,0 +1,10 @@
+id,timestamp,account,currency,amount,description
+A1,2024-05-03T10:00:00+00:00,ops,USD,"1,234,567.89",big
+A2,2024-05-04T10:00:00+00:00,ops,USD,"(1,234.50)",paren thousands
+A3,2024-05-05T10:00:00+00:00,ops,USD, (45.00) ,padded paren
+A4,2024-05-06T10:00:00+00:00,ops,USD,-45.01,minus
+A5,2024-05-07T10:00:00+00:00,ops,USD,0.00,zero
+A6,2024-05-08T10:00:00+00:00,ops,USD,7,no decimals
+A7,2024-05-09T10:00:00+00:00,ops,USD,"  12,345.6  ",one decimal padded
+A8,2024-05-10T10:00:00+00:00,ops,USD,(0.01),one cent refund
+A9,2024-05-11T10:00:00+00:00,ops,USD,"-1,000",minus no decimals
